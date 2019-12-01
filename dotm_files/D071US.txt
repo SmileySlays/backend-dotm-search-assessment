@@ -1,45 +1,0 @@
-
-
-
-Today’s Date
-	AttyName
-	AttyEmail
-	AttyPhone
-NameAddress
-Re:	Client Reference #
-	Country Design Patent Application No. Filing No. filed Filing Date
-	Title:	TITLE
-	Inventor(s):	Inventors
-	Our Ref.:	Elite Matter No.
-
-Dear Contact Greeting:
-
-We are pleased to report that we have just received an official Notice of Allowance from the US Patent and Trademark Office on the above-identified patent application. It is now only necessary to pay the required issue fee before Term Date 11200 in order to have the patent issue. The sooner it is paid, the sooner the patent will issue.
-
-OPTIONAL PARAGRAPH FOR USE IF RESTRICTION REQUIREMENT WAS ISSUED
-During the prosecution of this application, the Examiner took the position that the claims in the application covered more than one invention. We elected to proceed with embodiment  covering Figures . We still have an opportunity to pursue the second design illustrated in Figures . This can be accomplished by filing a divisional patent application before the first patent issues. Please provide us with your instructions by TERM DATE 11200-30 by checking the appropriate box on the enclosed form and returning a copy to us.
-
-Please let us have your authorization to proceed with payment of the issue fee before TERM DATE 11200-30. 
-
-INSERT AFTER CLOSING:
-Issue Fee Instructions  	Please pay the issue fee by the deadline. 
-	Please do not pay the issue fee and allow the application to go abandoned. 
-
-ADD IF OPTIONAL PARAGRAPH FOR RESTRICTION REQUIREMENT WAS USED
-Divisional Application Instructions: 
-	Please file a divisional application before the patent issues to pursue the design illustrated
-	in Figures .
-  
-______________________________		
-Date						Signature
-
-Sincerely,
-
-
-
-Working Attorney
-
-Enclosure
-
-cc:	Copy Name  P13US
-
