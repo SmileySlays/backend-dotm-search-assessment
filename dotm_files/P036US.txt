@@ -1,0 +1,33 @@
+
+
+
+Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	clref
+	US Patent No. serial
+	Issue Date:	date
+	Title:	TITLE
+	Inventor(s):	inventors
+	Our Ref.:	matterno
+
+Dear  congreet:
+
+We have just received and are pleased to enclose a Certificate of Correction addressing printing errors in the above-identified patent. You should keep this certificate in the jacket of the ribbon copy of the patent.  
+
+This certificate was issued at our request to correct US Patent Office printing errors that we noticed upon inspection of the patent shortly after its issuance.
+
+Sincerely,
+
+
+
+atty
+
+Enclosure
+
+cc:	copyname
+
+P36US
+

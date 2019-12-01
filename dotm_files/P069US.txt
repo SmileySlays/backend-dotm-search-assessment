@@ -1,0 +1,30 @@
+
+
+
+General/Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	Client Reference #
+	Country Patent Application No. Application No.
+	Filing Date:	Application Date
+	Title:	Case TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+	
+Dear Correspondence Address-Contact Greeting:
+
+We are pleased to report that we have received a “Notification of Acceptance of Application Under 35 USC. 371 and 37 CFR 1.494 or 1.495” which indicates that the filing formalities for this national stage application have been completed and that the application has been accepted.  We will forward the official filing receipt to you as soon as we receive it.
+
+Sincerely,
+
+
+
+Working Attorney
+
+Enclosure
+
+cc:	copyname
+  P69US
+

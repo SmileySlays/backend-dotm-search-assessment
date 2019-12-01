@@ -1,0 +1,30 @@
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	Client Reference #
+	Country Patent Application No. Basic Application No.
+	Filing Date:	Basic Application Date
+	Title:	Case TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+	
+Dear Contact Greeting:
+
+We are pleased to confirm that the above-identified patent application was filed in Argentina on Basic Application Date and assigned Application No. Basic Application No..  This application claims priority from the counterpart US case, and therefore receives the benefit of the US filing date of .  
+
+We will report further on this application as the case progresses.  In the meantime, please do not hesitate to contact us if you have any questions. 
+
+Sincerely,
+
+
+
+Working Attorney
+
+cc:	copyname
+  
+P3AR

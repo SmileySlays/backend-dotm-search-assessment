@@ -1,0 +1,48 @@
+
+
+
+
+Today’s Date
+	ATTYNAME
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	client ref
+	Title:	TITLE
+	Inventor(s):	inventors
+	Our Ref.:	matterno
+
+Dear congreet:
+
+FOLLOW UP - CONFIRM INSTRUCTIONS TO FILE AN APPLICATION
+This will confirm that we are proceeding with a patent application for the above-identified disclosure. To assist in our preparation, please be sure that we have copies of any prior art patents or publications which may be pertinent to the disclosed invention. Also, we should be informed of any public disclosures, uses, or offers to sell the invention which have been made or which may occur prior to the filing of the patent application. 
+
+We will follow up regarding any additional information which may be needed to complete the application. In the meantime, please do not hesitate to contact us if you have any questions or wish to discuss this further.
+
+P7US
+
+FOLLOW UP – CLOSING FILE
+This is a follow-up to our past communications concerning the above-identified disclosure. Since this matter has been pending for some time without any activity, we are closing our file and will not follow up further unless instructed to do so. 
+
+Please let us know if we can be of any further assistance on this matter. For your convenience, you may simply check one of the options on the enclosed instructions sheet and return a copy to our office in order to confirm your instructions.
+
+Enclosure
+
+INSERT AFTER CLOSING:
+	Please close your file on this matter; no follow-up is necessary.
+
+	Please continue to follow-up on this matter approximately every ______ month(s).
+
+
+______________________________		
+Date						Signature
+
+ P6bUS
+
+Sincerely,
+
+
+
+atty
+
+cc:	copyname

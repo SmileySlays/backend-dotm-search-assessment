@@ -1,0 +1,49 @@
+
+
+
+
+Today’s Date
+	ATTYNAME
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	Client Ref
+	Patentability Search
+	Title:	TITLE
+	Inventor(s):	inventors
+	Our Ref.:	matter no
+
+Dear congreet:
+
+FOLLOW UP ON INVENTION DISCLOSURE - NO PATENTABILITY SEARCH OR PATENT APPLICATION AUTHORIZED
+This is a follow-up regarding the status of the above-identified matter. We were previously provided with an invention disclosure pertaining to this matter, and it has now been on hold for some time pending further instructions.
+
+It is important to note that the ability to obtain a patent can be significantly affected by the passage of time. For example, it is not possible to file a patent application on subject matter which has been publicly disclosed or which has been sold or offered for sale for more than a year. It is also possible that an application will be filed by others claiming the same subject matter, which could undermine your rights. The potential for loss of rights is even greater with respect to possible patent protection outside of the United States.
+
+We therefore urge you to let us know at your earliest convenience if you wish to proceed further on this invention disclosure. Please do not hesitate to contact us if you have any questions or wish to discuss this matter further before deciding how to proceed. We look forward to receiving your instructions, which you may conveniently provide by checking the appropriate option below. However, in the absence of a response, we will assume that you have decided not to pursue this invention at this time, and we will close our file.
+
+[After the closing, add the following:]
+
+	Yes, we want to proceed with a patent application. We will be in contact to discuss this further.
+
+	No, we do not wish to proceed with an application. Please close your file on this matter.
+
+	We have not decided whether to proceed with a patent application. Please follow up again in ______ months.
+
+P1aUS
+
+FOLLOW-UP RE EARLIER INVENTION DISCLOSURE – AWAITING INSTRUCTIONS
+This is a follow-up to our recent correspondence commenting on the above invention disclosure. We remind you that we are awaiting your instructions on how to proceed in this matter.
+
+Please do not hesitate to contact us if you have any questions or wish to discuss this matter further before deciding how to proceed. We look forward to receiving your instructions. However, in the absence of a response, we will assume that you have decided not to pursue this invention at this time, and we will close our file.
+
+P1cUS
+
+Sincerely,
+
+
+
+atty
+
+cc:	copyname
+  

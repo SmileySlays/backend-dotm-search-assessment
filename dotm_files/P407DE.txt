@@ -1,0 +1,39 @@
+
+
+
+
+General/Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+
+NameAddress
+Re:	Case Data/References/Client Reference #
+	Case Data/Case Country Patent Application No. Case Data/Diary Field/Basic Application No.
+	Filing Date:	Case Data/Diary Field/Basic Application Date
+FOR REGISTERED PATENTS
+	Patent No.:	Case Data/Diary Field/Patent, Registration No.
+	Issue Date:	Case Data/Diary Field/Patent, Registration Date
+	Title:	Case Data/Case TITLE
+	Inventor(s):	Name/DNC/Inventors
+	Our Ref.:	Case Data/Elite Matter No.
+	
+Dear Name/DNC/Correspondence Address-Contact Greeting:
+
+We are pleased to report that the above-identified German patent application has been published in the German Patent Bulletin.  This step in German patent prosecution is known as the "laying-open" of an application as the specification, claims, drawings and abstract are published (or laid open) for inspection by any interested party. 
+
+This application will not be examined until a Request for Examination is filed.  A Request for Examination must be filed within seven years from the Filing Date of the application (i.e. by date) or the case will be considered withdrawn.  Unless we receive instructions from you to the contrary, we will wait until closer to the deadline and will then request your instructions as to filing a Request for Examination.
+
+We will keep you advised of further developments with respect to this application as the case progresses.  In the meantime, please do not hesitate to contact us if you have any questions. 
+
+Sincerely,
+
+
+
+Case Data/Team Member/Working Attorney
+
+Enclosure
+
+cc:	copyname
+  
+P7DE (Rev 01/08)

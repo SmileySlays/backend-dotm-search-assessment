@@ -1,0 +1,45 @@
+
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	Client Reference #
+	European Patent Application No. Application No.
+	Filing Date:	Filing Date
+	Title:	Case TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+
+Dear Contact Greeting:
+
+We are pleased to inform you that the European Patent Office has issued a communication indicating acceptance of this application.  Enclosed is a copy of for your records.
+
+Please note that we must respond to this communication by  by giving approval of or comments to the text.  Please read the text, especially any amendments made by the Examiner, and note any inconsistencies you may find.  Once again, any amendments must be made by the aforementioned date.  
+
+Once the European Patent Office has received approval of this text, the Office will then issue a further communication setting a due date for attending to the language translations of the claims and the payment of official fees.
+
+We look forward to receiving your instructions well before .  In the meantime, if you have any questions or wish to discuss this further before deciding on a course of action, please do not hesitate to contact us. 
+
+Sincerely,
+
+
+
+Working Attorney
+[After the closing, add the following:]
+
+	The text looks acceptable.  Please indicate our acceptance of the text to the European Patent Office.
+
+
+______________________________		
+Date						Signature
+
+Enclosure
+
+cc:	copyname
+  
+P30EP
+

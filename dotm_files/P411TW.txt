@@ -1,0 +1,45 @@
+
+
+
+
+General/Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+
+NameAddress
+Re:	References/Client Reference #
+	Case Country Patent Application No. Basic Application No.
+	Filing Date:	Basic Application Date
+	Patent No.:	Patent, Registration No.
+	Issue Date:	Patent, Registration Date
+	Title:	Case TITLE
+	Inventor(s):	Name/DNC/Inventors
+	Our Ref.:	Elite Matter No.
+	
+Dear Name/DNC/Correspondence Address-Contact Greeting:
+
+We are pleased to report that the publication period for the above-identified patent application expired without an opposition being filed.  We have accordingly attended to payment of the requisite fees and a patent has been granted on this case with an issue date of date.  Annuities will be due on this patent prior to each anniversary of the issue date, with the next one being due by date.  We will advise you closer to that date and request your instructions regarding payment of the annuity.
+
+Further, please be advised that Article 82 of the Patent Law of Taiwan provides that a patentee must label his patent product or its packaging with the patent number.  If this is not done, there can be no claim for damages in the case of patent infringement.  Therefore, we suggest marking such as the following:  “ROC (Taiwan) Patent No. _________________”.
+
+Enclosed is the original Letters Patent and an English translation for your files.  This patent has a term of twenty years from the filing date, and therefore will expire on date.  Please acknowledge receipt of these documents by returning a signed copy of this letter.    
+
+Sincerely,
+
+
+
+Working Attorney
+
+Enclosure
+
+
+INSERT AFTER CLOSING:
+
+Receipt of the above-identified Taiwan Patent is confirmed.
+______________________________		
+Date						Signature
+
+cc:	copyname
+  
+P11TW1

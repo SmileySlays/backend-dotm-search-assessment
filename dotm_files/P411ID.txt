@@ -1,0 +1,76 @@
+
+
+
+
+General/Today’s Date
+	AttyName
+	AttyEmail
+VIA FACSIMILE Name/Fax No/Foreign Agent Fax No.	AttyPhone
+
+Confirmation with any Enclosures via Air Mail
+
+Name/DNC/Contact Name-Foreign Agent
+Name/Foreign Agent (using Official Name)
+Name/Address Information/Foreign Agent
+
+IF SENDING VIA COURIER TO PHYSICAL ADDRESS:
+Name/Address Information/Foreign Agent, Physical Address
+
+Re:	Case Data/References/Foreign Reference #
+	Case Data/Case Country Patent Application No. Case Data/Diary Field/Basic Application No.
+	Filing Date:	Case Data/Diary Field/Basic Application Date
+IF FOR A REGISTERED PATENT
+	Patent No.:	Patent/Registration No.
+	Issue Date:	Patent/Registration Date
+	Applicant:	Name/Applicant/Current Owner
+	Title:	Case Data/CASE TITLE
+	Inventor(s):	Name/DNC/Inventor Last Names
+	Our Ref.:	Case Data/Elite Matter Number
+
+Dear Name/DNC/Contact Greeting-Foreign Agent:
+
+We have received and thank you for your recent correspondence concerning the deadline to file a Request for Examination of the above-identified patent application.  Please submit a request for normal examination of this application by date deadline.  We look forward to receiving your confirmation of the filing of this Request prior to the deadline.  Thank you for your assistance. 
+
+Sincerely,
+
+
+
+Case Data/Team Member/Working Attorney
+
+Enclosures
+
+P11ID1 (Rev. 02/08)
+
+Date:	General/Today’s Date
+
+Number of Pages:  Cover sheet plus                page(s)
+
+CONFIRMATION OF RECEIPT REQUESTED IF CHECKED:  
+ORIGINAL COPY AND ANY ENCLOSURES
+  WILL
+  WILL NOT
+BE SENT
+
+	To:	Name/DNC/Contact Name-Foreign Agent
+	Company:	Foreign Agent
+	Your Reference:	Case Data/References/Foreign Reference #
+	Fax Number:	Name/Fax No/Foreign Agent Fax No.
+
+	From:	Case Data/Team Member/Working Attorney
+	Our Reference:	Case Data/Elite Matter Number
+
+	Comments:	     
+
+
+
+
+
+
+
+
+
+
+
+
+
+

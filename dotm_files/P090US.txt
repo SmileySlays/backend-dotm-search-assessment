@@ -1,0 +1,31 @@
+
+
+
+Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	clref
+	US Patent No. Number Issued on Issued
+	Based on US Patent Application No. Application No. filed  pplication Date
+	Title:	TITLE
+	Inventor(s):	inventors
+	Our Ref.:	matterno
+
+Dear congreet:
+
+We are simply following up on our letter of , which forwarded the original of United States Patent No. Number which issued on Issued based on the subject patent application.
+
+We have not yet received the acknowledgment confirming that you received the original letters patent.  Unless we hear otherwise from you, we will assume that you are in receipt of the patent and will send no further reminders in this regard.
+
+If you have any questions, please let us know.
+
+Sincerely,
+
+
+
+atty
+
+cc:	copyname
+  

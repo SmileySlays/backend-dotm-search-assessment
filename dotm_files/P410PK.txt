@@ -1,0 +1,36 @@
+
+
+
+
+General/Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+
+NameAddress
+Re:	References/Client Reference #
+	Case Country Patent Application No. Diary Field/Basic Application No.
+	Filing Date:	Diary Field/Basic Application Date
+	Title:	Case TITLE
+	Inventor(s):	Name/DNC/Inventors
+	Our Ref.:	Elite Matter No.
+	
+Dear Name/DNC/Correspondence Address-Contact Greeting:
+
+Enclosed for your records is a copy of the Notice of Acceptance which has been issued by the Pakistani Patent Office in connection with the above-captioned patent application.
+
+The Notice will be published in the Official Gazette in Pakistan for a period of four months.  Please note that this application has been renumbered number for purposes of publication.  If no opposition is filed at the end of the publication period, we will attend to the payment of the first sealing fee as this application proceeds to grant.
+
+In the meantime, if you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+
+
+
+Team Member/Working Attorney
+
+Enclosure
+
+cc:	copyname
+  
+P10PK 

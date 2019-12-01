@@ -1,0 +1,36 @@
+
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+
+NameAddress
+Re:	Client Reference #
+	Japan Patent Application No. Application No.
+	Filing Date:	Application Date
+	Title:	Case TITLE
+	Inventor(s):	Name/DNC/Inventors
+	Our Ref.:	Case Data/Elite Matter No.
+	
+Dear Name/DNC/Correspondence Address-Contact Greeting:
+
+We are pleased to report that the above-identified Japanese patent was published in the Japanese Official Patent Gazette on  date.
+
+Enclosed for your reference is a copy of the patent publication, along with an English translation of the particulars of the publication and the published claims.  
+
+Please let me know if you have any questions or comments. 
+
+Sincerely,
+
+
+
+Working Attorney
+
+Enclosure
+
+cc:	copyname
+  
+P20JP

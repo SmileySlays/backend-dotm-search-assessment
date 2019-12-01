@@ -1,0 +1,41 @@
+
+
+
+
+Today’s Date
+	ATTYNAME
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	Client Ref
+	Title:	TITLE
+	Inventor(s):	inventors
+	Our Ref.:	matter no
+
+Dear congreet:
+
+CONFIRM RECEIPT OF INVENTION DISCLOSURE – PREPARING PROVISIONAL PATENT APPLICATION
+Thank you for your recent correspondence in reference to the above-identified disclosure. We are in the process of reviewing the disclosure and preparing same for filing as a provisional application. We will report to you upon filing of the case.
+
+P1dUS
+
+CONFIRM RECEIPT OF INVENTION DISCLOSURE – PREPARING PATENT APPLICATION
+This will confirm receipt of your recent correspondence and the enclosed material concerning the above-identified disclosure. We are initiating a patent application for this disclosure. To assist in our preparation, please be sure that we have copies of any prior art patents or publications which may be pertinent to the disclosed invention. Also, we should be informed of any public disclosures, uses, or offers to sell the invention which have been made or which may occur prior to the filing of the patent application. We will follow up regarding any additional information which may be needed to complete the application. 
+
+We appreciate the opportunity to be of service, and will be in contact soon as we begin work on this application. In the meantime, please do not hesitate to contact us if you have any questions or wish to discuss this further.
+
+P2US
+
+CONFIRM RECEIPT OF INVENTION DISCLOSURE – PREPARING PATENT APPLICATION WITH DEADLINE
+This will confirm receipt of your recent correspondence and the enclosed material concerning the above-identified disclosure. We are preparing the application for filing with the United States Patent and Trademark Office prior to the deadline of . Please be sure that we have copies of any prior art patents or publications which may be pertinent to the disclosed invention. Also, we should be informed of any public disclosures, uses or offers to sell the invention which have been made. 
+
+P2aUS
+
+Sincerely,
+
+
+
+atty
+
+cc:	copyname
+  

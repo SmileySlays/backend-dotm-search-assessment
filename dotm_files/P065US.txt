@@ -1,0 +1,32 @@
+
+
+
+Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	clref
+	US Provisional Patent Application No. serial
+	Filing Date:	fdate
+	Title:	TITLE
+	Inventor(s):	inventors
+	Our Ref.:	matterno
+
+Dear congreet:
+
+This is a follow up to our past correspondence concerning the approaching deadline for the above-identified case.  We have until one year from the filing date of the provisional application within which to file any US or foreign patent application which would claim priority from this provisional filing.  Please let us have your instructions regarding the filing of any US or foreign cases.  
+
+As always, please do not hesitate to contact us if you have any questions or wish to discuss this further before deciding how to proceed.  In the absence of a response, we will assume that you have decided not to further pursue this invention and we will close our file.
+
+Sincerely,
+
+
+
+atty
+
+cc:	copyname
+
+P65US
+
+

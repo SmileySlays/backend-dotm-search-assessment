@@ -1,0 +1,61 @@
+Prepared by:  Attorney (initials)  Atty		Secretary  Login	 	Date:  Today’s Date	
+APPLICATION DATA
+Application No.	Case Data/Diary Field/Basic Application No.	
+Is a client copy of  completed submission needed?
+
+  Yes           No
+Confirmation No.	Case Data/Diary Field/Patent Confirmation No.
+
+Attorney Docket No.	Case Data/Elite Matter Number
+
+First  Named Inventor	Name/DNC/Inventor First Middle Last Name Sequence #1
+
+DOCUMENTS FOR SUBMISSION
+
+Create a folder in M:\FORMALITIES\ with the matter number name.  All documents MUST be in PDF format (letter size 8 ½ x 11) and file names cannot contain spaces or symbols.  (e.g. M:\Formalities\4002-9876\Power_Of_Attorney
+Amendment/Response 		Page start	Page end
+	  Preliminary	     		     	
+	  Response to Election/Restriction
+	  Non-Final 
+	  FINAL
+	  FINAL with RCE
+		Amendments to Specification	     		     	
+		Amendments to Claims	     		     	
+		Amendments to Drawings	     		     	
+		Amendments to Abstract	     		     	
+		Applicant Arguments/Remarks	     		     	
+	Request for Continued Examination
+	Drawings (with labels) 				Pages total	     	
+	Extension of Time
+	Declaration				Pages total	     	
+	Power of Attorney
+		PTO SB/80 POA to Prosecute Application (signed by Applicant/Owner)
+		PTO SB/96 37 CFR 3.73
+		Copy of Assignment (optional)
+		PTO SB/81 POA/Correspondence (optional)
+	IDS Letter 				Pages total	     	
+	IDS					Pages total	     	
+		Foreign References 	No. attached	     	
+		Translations 	No. attached	     	
+		Non-Patent Literature 	No. attached	     	
+	Application Data Sheet				Pages total	     	
+	Other:       
+FEE CALCULATION
+Entity size 	  Large	  Small
+Additional claims fee? 	 No	  Yes	Pay fees for:         Additional Claims         Additional Independent Claims  
+IDS Submission?	 No	  Yes
+Extension of Time?	 No	  Yes	      month(s) (must submit form PTO SB/22 Petition for Extension of Time)
+Other fees? 	     		
+TO BE COMPLETED AFTER SUBMISSION IS COMPLETE
+	Electronic Acknowledgement Receipt and Fee Transmittal 	  Saved to matter
+		  Copy printed for file
+		  Copy of Electronic Fee Transmittal sent to Billing (if applicable)
+	Download all documents from PTO PAIR Image File Wrapper 
+	Docket entry cleared
+	Save downloaded documents to WorkSite "as efiled"
+	Make client copy of submission documents
+	Delete folder on M: drive
+	Mount original of submission documents in file
+	Update PATRICIA (e.g., IDS Citation Table)
+
+P658 (10/12)

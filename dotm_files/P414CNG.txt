@@ -1,0 +1,37 @@
+
+
+
+
+Date
+	AttyName
+Via e-mail EMAIL	AttyEmail
+	AttyPhone
+
+NameAddress
+Re:	clref
+	Country Patent Application No. serial
+	Filing Date:	fdate
+	Title:	TITLE
+	Inventor(s):	inventors
+	Our Ref.:	matterno
+
+Dear congreet:
+
+We are pleased to report to you that we have just received a favorable decision on the above-identified patent application ruling that the invention of the application should be patented.  We must therefore pay the certificate fee and the second annuity before Instructions Due Deadline Term 80000.  If we do not hear to the contrary before Associate Instructions Due Deadline, we will proceed with payment of the certificate fee and annuity.
+
+Should you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+
+
+
+atty
+email
+
+P14CN1
+
+	Yes, please pay the certificate and annuity fee before the deadline.
+
+	No, please do not pay the certificate and annuity fee.  We wish to allow this application to lapse.
+
+Date: 					Signature: 	

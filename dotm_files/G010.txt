@@ -1,0 +1,51 @@
+CLIENT NAME
+Client Preferences Checklist
+
+Corporate Information
+Official Company Name:      	
+	(Legal entity name as it appears on Secretary of State business registration)
+Doing Business As (DBA):      	
+State of Incorporation:      	
+Address:      	
+City, State, Zip:      	
+Phone No.:      	
+Fax No.:      	
+Entity Size*:  Small (≤500 Employees)  Large (>500 Employees)
+Communication
+Preferred method of communication: 
+ Email   Fax   First Class Mail   Other:      	
+Primary Contact 
+Name:      	
+Title:      	
+Email Address:      	
+Phone No.:  Same as Corporate Phone No. (above)  Other     	
+Fax No.:  Same as Corporate Fax No. (above)  Other     	
+Mailing Address:  Same as Corporate Address (above)  Other     	
+
+*An application qualifies for a lower government fee in certain applications if the application has not been assigned or licensed to a large entity and there is no obligation to do so. Generally, a large entity is one having more than 500 employees (including all affiliates), excluding certain not-for-profit organizations and educational institutions. Please check the proper box to ensure that the proper fee amount will be paid.
+Copy Contact 
+Name:      	
+Title:      	
+Email Address:      	
+Phone No.:  Same as Corporate Phone No. (above)  Other     	
+Fax No.:  Same as Corporate Fax No. (above)  Other     	
+Mailing Address:  Same as Corporate Address (above)  Other     	
+Special Instructions/Other Contacts: 
+     	
+     	
+Billing
+Preferred method for receiving bills:
+ Email   Fax   First Class Mail   Electronic (service name):      	
+To whom should the bills be sent (attention)
+ Primary Contact   Copy Contact   Accounting/Other
+Accounting/Other
+Name:      	
+Title:      	
+Email Address:      	
+Phone No.:  Same as Corporate Phone No. (above)  Other     	
+Fax No.:  Same as Corporate Fax No. (above)  Other     	
+Mailing Address:  Same as Corporate Address (above)  Other     	
+Special Instructions/Comments: 
+     	
+     	
+

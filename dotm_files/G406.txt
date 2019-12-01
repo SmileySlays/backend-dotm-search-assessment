@@ -1,0 +1,33 @@
+
+
+
+Date
+	ATTYNAME
+	AttyEmail
+	AttyPhone
+Via email only:   ForAssocEmail
+
+ForAssocConName
+ForAssocName 
+AddrInfoForAssoc
+Re:	ForeignRef
+	CaseCountry Application No. PatentAppNo filed AppDate
+IF FOR A REGISTERED PATENT
+	Patent No.:	RegNo issued RegDate
+	Applicant:	AppCurrOwner
+	Title:	CASETITLE
+	Inventor(s):	InvLastName
+	Our Ref.:	EliteMatterNo
+
+Dear ConGreetForAssoc:
+
+ 
+
+Sincerely,
+
+
+
+WorkingAtty
+
+Enclosure
+

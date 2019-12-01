@@ -1,0 +1,37 @@
+
+
+
+
+General/Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+
+NameAddress
+Re:	Case Data/References/Client Reference #
+	Case Data/Case Country Patent Application No. Case Data/Diary Field/Basic Application No.
+	Filing Date:	Case Data/Diary Field/Basic Application Date
+FOR REGISTERED PATENTS
+	Patent No.:	Case Data/Diary Field/Patent, Registration No.
+	Issue Date:	Case Data/Diary Field/Patent, Registration Date
+	Title:	Case Data/Case TITLE
+	Inventor(s):	Name/DNC/Inventors
+	Our Ref.:	Case Data/Elite Matter No.
+	
+Dear Name/DNC/Correspondence Address-Contact Greeting:
+
+We are pleased to report that the above-identified Japanese patent application was published in the Japanese Official Patent Gazette on date under Publication No. number.  If no opposition is filed within three months from the date of publication and/or the Examiner finds no new reason(s) for rejection, a decision to grant this application will be issued.  At that time, the registration fee for the first three year period will be due to the Japanese Patent Office.  Unless we hear from you to the contrary, the registration fee will be paid once it becomes due.
+
+We will report further on this application as the case progresses.  In the meantime, please do not hesitate to contact us if you have any questions. 
+
+Sincerely,
+
+
+
+Case Data/Team Member/Working Attorney
+
+Enclosure
+
+cc:	copyname
+  
+P12JP (Rev 01/08)

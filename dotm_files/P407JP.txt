@@ -1,0 +1,34 @@
+
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	Client Reference #
+	Country Patent Application No. Application No.
+	Filing Date:	Application Date
+	Title:	Case TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+
+Dear Contact Greeting:
+
+We are pleased to report that the above-identified application was published in the Japanese Official Patent Gazette on Publication Date under Domestic Announcement No. Publication No.  This publication simply notifies the public of the contents of the application.  A copy of the first page of the Official Gazette is enclosed.
+
+Examination of the case awaits our filing of a formal Request for Examination sometime prior to the deadline of Term No. 570.  If you wish to proceed with examination at this time, please let us know.  In the absence of your instructions, we will provide you with a reminder about three months prior to the deadline, although a Request for Examination could be made at any time prior to the deadline date.
+
+We will report further on this application as the case progresses.  In the meantime, please do not hesitate to contact us if you have any questions.
+
+Sincerely,
+
+
+
+Working Attorney
+
+Enclosure
+
+cc:	copyname
+  P8JP

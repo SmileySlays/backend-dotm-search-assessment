@@ -1,0 +1,46 @@
+
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	References/Client Reference #
+	Case Country Patent Application No. Basic Application No.
+	Filing Date:	Basic Application Date
+	Title:	Case TITLE
+	Inventor(s):	Name/DNC/Inventors
+	Our Ref.:	Elite Matter No.
+	
+Dear Name/DNC/Correspondence Address-Contact Greeting:
+
+As reported separately, the European patent application identified above was granted on date.  In order to complete the registration procedure in Hong Kong, a Stage 2 application must be filed within six (6) months from the date that the underlying European application is granted (i.e., by date).
+ 
+Please let us know if you are interested in completing the registration procedure in Hong Kong at this time (i.e., via the filing of a Stage 2 application) by checking the appropriate box below and returning a copy to us.  In the absence of your instructions, we will not file a Stage 2 application.
+
+As always, if you have any questions, please call. 
+
+Sincerely,
+
+
+
+Team Member/Working Attorney
+
+INSERT AFTER CLOSING:
+
+	Please complete the registration procedure in Hong Kong by filing a Stage 2 application.
+ 
+	We are not interested in completing the registration procedure in Hong Kong for the above-identified application.  Please allow the application to go abandoned. 
+
+______________________________		
+Date						Signature
+
+
+Enclosure
+
+cc:	copyname
+  
+P5HK
+

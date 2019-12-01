@@ -1,0 +1,56 @@
+
+
+
+
+Today’s Date
+	ATTYNAME
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	Client Ref
+	Title:	TITLE
+	Inventor(s):	inventors
+	Our Ref.:	matter no
+
+Dear congreet:
+
+CONFIRM RECEIPT – CONDUCTING PATENTABILITY SEARCH
+This will confirm receipt of your correspondence and the enclosed material concerning the above-identified disclosure. 
+
+Deadline
+We have docketed a deadline of  to report the results to you. If there is anything which would suggest that our efforts ought to be accelerated, please let me know with an indication of the required or desired filing date. We will follow up regarding any additional information which may be needed to complete the assessment. 
+
+Summary of the Invention
+The above-identified invention generally concerns . 
+
+Features to be Searched 
+To avoid any confusion, provided below is a general outline of the features that we intend to search. Again, please let us know if we missed any features that need to be searched. The general features/concepts we will search are as follows:
+
+	•	.
+	•	Feature 1 + .
+	•	Feature  + .
+
+Conclusion
+Unless we hear from you otherwise, we will conduct the search based on the features listed above. If you have any questions or would like to proceed in another way, please do not hesitate to contact us.
+
+P1US
+
+CONFIRM RECEIPT – PROVIDING BUDGET FOR PATENTABILITY SEARCH/PATENT APPLICATION
+We have received and thank you for your invention disclosure relating to . This concept appears to be well-suited to patent protection. In order to determine if patent protection is available, we would need to conduct a patentability search at a cost of about $. If you wish for us to proceed with such a search, we ask that you provide us with a retainer in that amount along with your instructions to proceed. 
+
+If the results of the patentability search are favorable, then a patent application could be prepared in order to obtain a patent at a cost of perhaps $. On the other hand, we could discuss with you the possibility of promoting this invention to various companies on a confidential basis. It may then be possible to get an interested company to pay the costs for pursuing a patent, as well as additional compensation, in return for rights in the invention. 
+
+It is important to note that the ability to obtain a patent can be significantly affected by the passage of time. For example, it is not possible to file a patent application on subject matter which has been publicly disclosed or which has been sold or offered for sale for more than a year. It is also possible that an application will be filed by others claiming the same subject matter, which could undermine your rights. The potential for loss of rights is even greater with respect to possible patent protection outside of the United States.
+
+Please consider these comments and let us have your instructions on how you wish to proceed. In the absence of a response, we will assume that you have decided not to pursue this invention at this time and we will close our file.
+
+P1bUS
+
+Sincerely,
+
+
+
+atty
+
+cc:	copyname
+  

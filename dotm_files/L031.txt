@@ -1,0 +1,179 @@
+INSTRUCTIONS FOR PREPARING PATENT CASE MANAGEMENT PLAN “CMP”
+
+	The following provisions apply to patent cases filed in the United States District Court for the Southern District of Pennsylvania.	
+	
+General Instructions 
+
+	Unless the plaintiff is pro se, counsel for plaintiff is responsible for coordinating timely completion of the CMP.  The Court typically sets the deadline for filing a proposed CMP in the order setting the initial pretrial conference.  Otherwise, the deadline for filing the CMP is 90 days from the date the case was filed or removed unless otherwise set by court order.  The deadline for filing the CMP shall not be extended without written motion that establishes good cause to extend the deadline.  Regardless of the status of the CMP, the parties are free to engage in discovery if in compliance with the Federal Rules of Civil Procedure and Local Rules of this Court.
+
+	The calculation of all deadlines for the CMP is based on the "Anchor Date," which means the date that the case was filed or removed to the Court.  Because all CMP deadlines are linked to the Anchor Date, plaintiffs must promptly effectuate service on all defendants.  The Court may entertain requests from defendants to use a modified Anchor Date if service is not made promptly.
+
+	The Anchor Date is used to calculate certain deadlines that will govern pretrial management.  Please note, however, that the parties are encouraged to shorten these time frames in appropriate cases so that the case may be scheduled for trial more quickly than the outer deadlines otherwise applicable.	
+
+	The use of the term "months" for calculating the dates (rather than counting days) is for ease of calculation.  Thus, for example, if the Anchor Date is the 20th of the month, most of CMP deadlines will fall on the 20th of the respective months regardless of how many days comprise the intervening months.
+
+	
+
+[INSERT CASE CAPTION]
+
+	PATENT CASE MANAGEMENT PLAN
+
+I.  	Parties and Representatives
+
+	A.  	[Insert correct name of each party]
+
+B.  	[Insert full name, address, telephone, fax number, and e-mail address of all counsel]
+
+Counsel must promptly file a notice with the Clerk if there is any change in this information.
+
+ II.	Jurisdiction and Statement of Claims
+
+	•	The parties shall state the basis for subject matter jurisdiction.  If there is disagreement, each party shall state its position. 
+	•	[Insert a one paragraph synopsis of plaintiff's claims, including the legal theories and facts upon which the claims are based.] 
+
+	•	[Insert a one paragraph responsive synopsis of defendant's claims or defenses, including the legal theories and facts upon which the claims are based.] 
+III.  	Early Filings and Disclosures
+
+A.	The parties must serve their Fed. R. Civ. P. 26 initial disclosures on or before [no later than 4 months from Anchor Date]. [Note: Fed. R. Civ. P. 26(a)(1)(E) permits the parties to object to making initial disclosures or to stipulate to a different deadline for making such disclosures based upon the circumstances of the action.  If any objection and/or stipulation is made to initial disclosures in the CMP, the parties must briefly state the circumstances justifying their respective positions.] 
+
+B.	Plaintiff(s) must file preliminary witness and exhibit lists on or before ______________ [no later than 4 months from Anchor Date].
+
+C.	Defendant(s) must file preliminary witness and exhibit lists on or before ___ [no later than 5 months from Anchor Date].
+
+D.	All motions for leave to amend the pleadings and/or to join additional parties must be filed on or before                            [no later than 5 months from Anchor Date].
+		
+E.	Plaintiff(s) must serve Defendant(s) (but not file with the Court) a preliminary statement of damages, if any, and make a settlement demand, on or before ________________ [no later than 5 months from the Anchor Date].  Defendant(s) must serve on the Plaintiff(s) (but not file with the Court) a response thereto within 30 days after receipt of the demand.
+	
+F.	Any party who believes that bifurcation of discovery and/or trial is appropriate with respect to any issue or claim must notify the Court as soon as practicable.
+
+G.	Any party who believes that the particular circumstances of the case warrant additional disclosures or briefing of critical issues different from that specified by the Court’s uniform patent CMP should set out those matters in the proposed CMP and be prepared to present its position fully at the initial pretrial conference. By way of example, counsel should advise the court of any important claims construction disputes they anticipate or whether advice of counsel is expected or is likely to be asserted as a defense to allegations of willful infringement.  Counsel are advised, however, that departures from the sequencing and timing included in the uniform plan will be the exception rather than the rule and that parties seeking departure must present compelling reasons.
+
+IV.  	Discovery and Related Deadlines
+
+	•	All liability discovery—both fact and expert—must be completed by _______________ [12 months from the Anchor Date]. The parties should focus their early discovery in a manner that prepares them to respond timely to discovery requests concerning their preliminary infringement and invalidity contentions.
+
+	•	The parties must file and serve their infringement and invalidity contentions by _____________ [8 months from the Anchor Date].
+
+	•	The party with the burden of proof as to any liability issue must disclose the name, address, and vita of any expert witness on liability, and shall serve the report required by Fed. R. Civ. P. 26(a)(2) on or before _____________ [no later than 10 months from Anchor Date].  The responding party must disclose the name, address, and vita of any expert witness, and must serve the report required by Fed. R. Civ. P. 26(a)(2) on or before [30 days after the party with the burden serves its expert witness disclosure]. If the party with the burden has disclosed no experts, the responding party must make any expert disclosure on or before __________________ [no later than 11 months from the Anchor Date]. 
+
+	•	Any dispositive motions must be filed no later than ______________ [no later than 16 months from the Anchor Date].  Absent leave of court, and for good cause shown, all issues raised on summary judgment under Fed. R. Civ. P. 56 must be raised by a party in a single motion.  Issues of claims construction, infringement/non-infringement, and invalidity must be briefed at this time. Any motion to limit or preclude evidence (including expert testimony) in connection with dispositive motions must also be presented at this time. The parties will proceed under a four-brief schedule.  The plaintiff must file any dispositive motion by the above due date; the defendant must file any dispositive motion within twenty-eight days thereafter, along with a consolidated brief in support/brief in opposition to the plaintiff’s motion; the plaintiff must file a consolidated brief in opposition/reply in support within 28 days thereafter; and the defendant may file any reply in support of its own motion within 14 days thereafter.  If the plaintiff does not file a dispositive motion, any dispositive motion by the defendant is due [no later than 17 months from the Anchor Date], and briefing will proceed according to Local Rule 56-1. If the plaintiff files a dispositive motion and the defendant does not, briefing on the plaintiff’s motion will proceed according to Local Rule 56-1.  Counsel may confer and propose by motion a modified schedule and page limits different from those prescribed by Local Rule 7-1 so long as the briefing is completed within the time contemplated by this section.
+
+	•	The plaintiff must disclose the name, address, and vita of any expert witness on damages, and shall serve the report required by Fed. R. Civ. P. 26(a)(2) on or before __________________ [no later than 18 months from Anchor Date].  The responding party must disclose the name, address, and vita of any expert witness, and must serve the report required by Fed. R. Civ. P. 26(a)(2) on or before [30 days after the party with the burden serves its expert witness disclosure]. If the party with the burden has disclosed no experts, the responding party must make any expert disclosure on or before _______________ [no later than 19 months from the Anchor Date].
+
+	•	Damages discovery—both fact and expert—must be completed by [3 months before the Trial Date].
+
+	•	Discovery of electronically stored information (“ESI”).  If either party is seeking the production of a substantial volume of ESI, then complete the ESI Supplement to the Report of the Parties’ Planning Meeting (also available in MS Word on the Court’s  website at www.insd.uscourts.gov/Judges/CMP_info.htm.)
+
+If the parties believe that a substantial volume of ESI will not be produced in the case, the parties should include herein a brief description of the information anticipated to be sought in discovery in the case and include (1) the parties’ agreement regarding the format in which ESI will be produced (including whether the production will include metadata), (2) a description of any other issues the parties believe may be relevant to discovery in the case, and (3) either the following claw back provision or the language of any alternative provision being proposed:
+
+In the event that a document protected by the attorney-client privilege, the attorney work product doctrine or other applicable privilege or protection is unintentionally produced by any party to this proceeding, the producing party may request that the document be returned.  In the event that such a request is made, all parties to the litigation and their counsel shall promptly return all copies of the document in their possession, custody, or control to the producing party and shall not retain or make any copies of the document or any documents derived from such document.  The producing party shall promptly identify the returned document on a privilege log.  The unintentional disclosure of a privileged or otherwise protected document shall not constitute a waiver of the privilege or protection with respect to that document or any other documents involving the same or similar subject matter. 
+
+V.	Later Filings and Deadlines
+
+	•	Within 14 days after the liability discovery deadline, and consistent with the certification provisions of Fed. R. Civ. Proc. 11(b), the party with the burden of proof must file a statement of the claims or defenses it intends to prove at trial, stating specifically the legal theories upon which the claims or defenses are based. 
+
+B.	To the extent requests to limit or preclude expert testimony were not raised and determined at the dispositive motions stage, any party who wishes to limit or preclude expert testimony at trial must file any such objections no later than     [90 days before trial].  Any party who wishes to preclude expert witness testimony at the summary judgment stage shall file any such objections with their responsive brief within the briefing schedule established by Local Rule 56-1.
+
+C.	All parties must file and serve their final witness and exhibit lists on or before _______________ [no later than 14 months from Anchor Date].  This list should reflect the specific potential witnesses the party may call at trial.  It is not sufficient for a party to simply incorporate by reference “any witness listed in discovery” or such general statements.  The list of final witnesses must include a brief synopsis of the expected testimony.
+
+VI.	Pre-Trial/Settlement Conferences
+
+The Court will schedule regular status conferences following the initial pretrial conference.  Among the issues the parties must be prepared to address at every pretrial or status conference are settlement and the appropriate timing of a settlement conference with the magistrate judge.
+
+VII.	Trial Date
+
+The presumptive trial date is 24 months from the Anchor Date.  The parties request a trial date in _________[month/year].  The trial is by ___________ [Court or jury] and is anticipated to take              hours/days.  Counsel should indicate here the reasons that a shorter or longer schedule is appropriate.  While all dates herein must be initially scheduled to match the presumptive trial date, if the Court agrees that a different schedule is appropriate, the case management order approving the CMP plan will indicate the number of months by which all or certain deadlines will be extended to match the schedule approved by the Court.
+
+VIII.	Referral to Magistrate Judge  
+
+	•	Case.  At this time, all parties _______ [do/do not] consent to refer this matter to the currently assigned Magistrate Judge pursuant to 28 U.S.C. 636(b) and Federal Rules of Civil Procedure 73 for all further proceedings including trial.  [This section should be marked in the affirmative only if all parties consent.  Do not indicate if some parties consent and some do not.  Indicating the parties' consent in this paragraph may result in this matter being referred to the currently assigned Magistrate Judge for all further proceedings, including trial.  It is not necessary to file a separate consent.  Should this case be reassigned to another Magistrate Judge, any attorney or party of record may object within 30 days of such reassignment.  If no objection is filed, the consent will remain in effect.] 
+	•	Motions.  The parties may also consent to having the assigned Magistrate Judge rule on motions ordinarily handled by the District Judge, such as motions to dismiss, for summary judgment, or for remand.  If all parties consent, they should file a joint stipulation to that effect. Partial consents are subject to the approval of the presiding district judge. 
+
+IX.	Required Pre-Trial Preparation
+
+A.  	THREE WEEKS BEFORE THE FINAL PRETRIAL CONFERENCE, the parties must:
+
+1. 	File a list of trial witnesses, by name, who are actually expected to be called to testify at trial.  This list may not include any witnesses not on a party’s final witness list filed pursuant to section III.I. 
+
+2. 	Number in sequential order all exhibits, including graphs, charts and the like, that will be used during the trial.  Provide the Court with a list of these exhibits, including a description of each exhibit and the identifying designation.  Make the original exhibits available for inspection by opposing counsel.  Stipulations as to the authenticity and admissibility of exhibits are encouraged to the greatest extent possible.
+
+3.	Submit all stipulations of facts in writing to the Court.  Stipulations  are always encouraged so that at trial, counsel can concentrate on relevant contested facts.
+
+4.	A party who intends to offer any depositions into evidence during the party's case in chief must prepare and file with the Court and copy to all opposing parties a document that lists the portions of the deposition(s), including the specific page and line numbers, that will be read, or, in the event of a video-taped deposition, the portions of the deposition that will be played, designated specifically by counter-numbers.
+
+5.	Provide all other parties and the Court with any motions in limine, along with all proposed jury instructions, voir dire questions, and areas of inquiry for voir dire (or, if the trial is to the Court, with proposed findings of fact and conclusions of law). If trial briefs are requested by the court or otherwise appropriate, they are to be filed at this time.
+
+6.	Notify the Court and opposing counsel of the anticipated use of any evidence presentation equipment and schedule training on the Court’s Video Electronic Presentation System (“VEPS”) with the judge’s Courtroom Deputy.  
+B. 	TWO WEEKS BEFORE THE FINAL PRETRIAL CONFERENCE, the parties must:
+
+1.	Notify opposing counsel in writing of any objections to the proposed exhibits.  If the parties desire a ruling on the objection prior to trial, a motion should be filed noting the objection and a description and designation of the exhibit, the basis of the objection, and the legal authorities supporting the objection.
+
+2.	If a party has an objection to the deposition summary or to a designated portion of a deposition that will be offered at trial, or if a party intends to offer additional portions at trial in response to the opponent's designation, and the parties desire a ruling on the objection prior to trial, the party must submit the objections and counter summaries or designations to the Court in writing.  Any objections must be made in the same manner as for proposed exhibits.  However, in the case of objections to video-taped depositions, the objections must be brought to the Court's immediate attention to allow adequate time for editing of the deposition prior to trial.
+
+3.	File objections to any motions in limine, proposed instructions, and voir dire questions submitted by the opposing parties.
+
+4.	Notify the Court and opposing counsel of requests for separation of witnesses at trial.
+
+IX.	Other Matters
+
+[Insert any other matters any party believes should be brought to the Court's attention]  	
+
+
+
+[INSERT SIGNATURE BLOCKS FOR ALL COUNSEL TO SIGN THE CMP HERE]
+
+
+
+******************************************************************************
+
+
+
+PARTIES APPEARED IN PERSON/BY COUNSEL ON                       FOR A PRETRIAL/STATUS CONFERENCE.
+
+
+APPROVED AS SUBMITTED.
+
+
+APPROVED AS AMENDED.
+
+
+APPROVED AS AMENDED PER SEPARATE ORDER.
+
+
+APPROVED, BUT ALL OF THE FOREGOING DEADLINES ARE 
+SHORTENED/LENGTHENED BY ______________ MONTHS.
+
+
+
+APPROVED, BUT THE DEADLINES SET IN SECTION(S)  _______________ OF THE PLAN IS/ARE SHORTENED/LENGTHENED BY ______________ MONTHS.
+
+
+
+THIS MATTER IS SET FOR TRIAL BY                                      ON _____________________________.  FINAL PRETRIAL CONFERENCE IS SCHEDULED FOR ____________________________________ AT           .M., ROOM                                  .
+
+
+
+A SETTLEMENT/STATUS CONFERENCE IS SET IN THIS CASE FOR                                         AT                  .M.  COUNSEL SHALL APPEAR:
+
+                            IN PERSON IN ROOM                ; OR
+
+                            BY TELEPHONE, WITH COUNSEL FOR                                                         INITIATING THE CALL TO ALL OTHER PARTIES AND ADDING THE  COURT JUDGE AT (____) ___________________; OR 
+
+                            BY TELEPHONE, WITH COUNSEL CALLING THE  JUDGE'S STAFF AT (____) ___________________; 
+
+
+
+DISPOSITIVE MOTIONS SHALL BE FILED NO LATER THAN  _____________________ 
+	Upon approval, this Plan constitutes an Order of the Court.  Failure to comply with an Order of the Court may result in sanctions for contempt, or as provided under Rule 16(f), to and including dismissal or default.
+
+	Approved and So Ordered.
+
+
+
+
+________________________			___________________________________
+Date							U. S. District Court 
+							Southern District of Pennsylvania
+
+
+

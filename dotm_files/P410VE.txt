@@ -1,0 +1,45 @@
+
+
+
+
+General/Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+
+NameAddress
+Re:	References/Client Reference #
+	Case Country Patent No. Diary Field/Patent, Registration No.
+	Issue Date:	Diary Field/Patent, Registration Date
+	Based on:	Patent Application No. Diary Field/Basic Application No.
+	Filing Date:	Diary Field/Basic Application Date
+	Title:	Case TITLE
+	Inventor(s):	Name/DNC/Inventors
+	Our Ref.:	Elite Matter No.
+
+Dear Name/DNC/Correspondence Address-Contact Greeting:
+
+We are pleased to enclose the original Letters Patent for the above-identified patent case in Venezuela.  The term of the patent is fifteen years from the date of filing, therefore expiring on date.  The initial annuity payments have been made, and the next annuity is due by date.  We will contact you for instructions regarding payment of the annuities as they come due.  
+
+Please confirm receipt of this patent document by signing below and returning a copy of this letter to us for our records.  If you have any questions regarding this patent, please do not hesitate to contact us.
+
+Sincerely,
+
+
+
+Team Member/Working Attorney
+
+Enclosure
+
+cc:	copyname
+  
+P10VE1
+
+[After the closing, add the following:]
+
+Receipt of the above-identified Venezuelan Patent is confirmed.
+
+
+
+______________________________		
+DateSignature

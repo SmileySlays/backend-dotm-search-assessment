@@ -1,0 +1,46 @@
+
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	References/Client Reference #
+	Case Country Patent Application No. Diary Field/Basic Application No.
+	Filing Date:	Diary Field/Basic Application Date
+	Title:	Case TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+
+Dear Contact Greeting:
+
+This is to remind you that we have not filed a Request for Examination for the above-identified Japanese patent application.  The deadline for filing the Request for this application Term 570.   If the Request for Examination is not filed by the deadline, the application will be considered abandoned.  
+
+Please let us have your instructions by checking one of the boxes below and returning a copy of this letter to us.  
+
+Please do not hesitate to contact us if you have any questions or wish to discuss this further before making your decision.
+
+INSERT AFTER CLOSING:
+	Please file the Request for Examination immediately.
+	Do not file the Request for Examination but follow up closer to the deadline.
+	Do not file the Request for Examination; we want to abandon this application.
+
+
+
+______________________________		
+Date						Signature
+
+Sincerely,
+
+
+
+Working Attorney
+
+Enclosure
+
+cc:	copyname
+  
+P10JP 
+

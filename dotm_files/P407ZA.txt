@@ -1,0 +1,37 @@
+
+
+
+
+General/Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+
+NameAddress
+Re:	Case Data/References/Client Reference #
+	Case Data/Case Country Patent Application No. Case Data/Diary Field/Basic Application No.
+	Filing Date:	Case Data/Diary Field/Basic Application Date
+FOR REGISTERED PATENTS
+	Patent No.:	Case Data/Diary Field/Patent, Registration No.
+	Issue Date:	Case Data/Diary Field/Patent, Registration Date
+	Title:	Case Data/Case TITLE
+	Inventor(s):	Name/DNC/Inventors
+	Our Ref.:	Case Data/Elite Matter No.
+	
+Dear Name/DNC/Correspondence Address-Contact Greeting:
+
+We are pleased to report that the above-identified patent application was accepted by the Registrar of Patents on date.  The publication of acceptance is expected to appear in the Patent Journal on date.  If you wish to delay publication for any reason, it is essential that you instruct us immediately.  
+
+The Letters Patent document will issue from the Patent Office in due course.  It will be forwarded to you as soon as it comes to hand.  In the meantime, if you have any questions or comments about this case, please let us know. 
+
+Sincerely,
+
+
+
+Case Data/Team Member/Working Attorney
+
+Enclosure
+
+cc:	copyname
+  
+P7ZA (Rev 01/08)

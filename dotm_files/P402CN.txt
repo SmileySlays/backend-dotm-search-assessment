@@ -1,0 +1,48 @@
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	References/Client Reference #
+	Case Country Patent Application No. Diary Field/Basic Application No.
+	Filing Date:	Diary Field/Basic Application Date
+	Title:	Case TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+	
+Dear Contact Greeting:
+
+We are pleased to report that the above-identified patent application has been filed in China.  The filing date is indicated as , which is based on the International Filing Date of the corresponding PCT application.
+
+This application will not be examined until a Request for Examination is filed.  A Request for Examination must be filed by .  If the Request for Examination is not filed by the deadline, the application will be considered abandoned.  Please let us have your instructions by checking one of the boxes on the enclosed form and returning it to our office.  Please do not hesitate to contact us if you have any questions or wish to discuss this further before making your decision.  
+
+In the meantime, we will report the serial number to you once we receive the Official Filing Receipt from the Chinese Patent Office.  In the absence of your instructions, we will not request examination.
+
+[After the closing, add the following:]
+
+	Please file the Request for Examination immediately.
+
+	Do not file the Request for Examination at this time, but follow up closer to the deadline.
+
+	Do not file the Request for Examination.  We have decided to abandon this application.
+
+
+
+______________________________		
+Date						Signature
+
+Sincerely,
+
+
+
+Working Attorney
+
+Enclosure
+
+cc:	copyname
+  
+P2CN
+

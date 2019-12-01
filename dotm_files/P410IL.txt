@@ -1,0 +1,32 @@
+
+
+
+
+General/Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+
+NameAddress
+Re:	References/Client Reference #
+	Case Country Patent Application No. Diary Field/Basic Application No.
+	Filing Date:	Diary Field/Basic Application Date
+	Title:	Case TITLE
+	Inventor(s):	Name/DNC/Inventors
+	Our Ref.:	Elite Matter No.
+	
+Dear Name/DNC/Correspondence Address-Contact Greeting:
+
+We are pleased to inform you that the above-identified patent application has been allowed.  Upon payment of the publication fee, the Notice of Acceptance will be published for opposition in the Israeli Patents Journal.  If no opposition is filed within three months from said publication, the application will automatically be granted.  At that point, upon receiving the Certificate of Patent from the Patent Office, we will immediately forward it to you.
+
+We are instructing our associates in Israel to proceed with payment of the publication fee.  We will report further on this application as the case progresses.  In the meantime, please do not hesitate to contact us if you have any questions.
+
+Sincerely,
+
+
+
+Team Member/Working Attorney
+
+cc:	copyname
+  
+P11IL1 

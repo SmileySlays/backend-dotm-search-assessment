@@ -1,0 +1,199 @@
+IN THE UNITED STATES PATENT AND TRADEMARK OFFICE
+BEFORE THE PATENT TRIAL AND APPEAL BOARD
+
+Application No.:	Application No.
+Confirmation No.:	Patent Confirmation No.
+First-Named Inventor:	Inventor Name
+Filing Date:	Filing Date
+Group Art Unit:	GAU No.
+Examiner:	Examiner Name
+Attorney Docket No.:	Elite Matter No.
+Title:	CASE TITLE
+
+APPEAL BRIEF (37 CFR § 41.37)
+
+	Pursuant to the Notice of Appeal received by the United States Patent Office on  in connection with the above-indicated application, an Appeal Brief according to 37 CFR § 41.37 is provided along with the requisite fee of $ for a  entity.
+	A request for a -month extension of time along with the requisite fee have been enclosed with this Appeal Brief.
+	The Commissioner is authorized to grant any further extensions of time and charge any deficiency or credit any overpayment to Deposit Account No. 23-3030 but not to include issue fees.
+TABLE OF CONTENTS
+I.	REAL PARTY IN INTEREST	3
+II.	RELATED APPEALS, INTERFERENCES, AND TRIALS	3
+III.	SUMMARY OF CLAIMED SUBJECT MATTER	3
+IV.	ARGUMENT	3
+				37 CFR § 41.37 APPEAL BRIEF (JANUARY 2013)
+
+NOTE: Appellant's brief is required by 37 CFR § 41.37 to contain the following items, under appropriate headings, in the following order:
+(1)	Identification of real party in interest.
+(2)	Identification of related appeals and interferences.
+(3)	Summary of the claimed subject matter defined in each rejected independent claim.
+(4)	Arguments of appellant with respect to each ground of rejection presented for review, with each ground treated under a separate heading. When multiple claims subject to the same ground of rejection are argued as a group, the claims may stand or fall together. A claim argued separately should be placed under a subheading identifying the claim by number.
+(5)	An appendix containing a copy of the claims involved in the appeal. 
+(See MPEP § 1205 for elaboration of these requirements.)
+
+NOTE: If a brief is filed which does not comply with all the requirements of paragraph (c) of this section, appellant will be notified of the reasons for non-compliance and given a time period within which to file an amended brief. If appellant does not, within the set time period, file an amended brief that overcomes all the reasons for non-compliance stated in the notification, the appeal will stand dismissed. 37 CFR § 41.37(d)
+
+WARNING: Any arguments  or authorities not included in the brief permitted under this section or §§ 41.68 and 41.71 will be refused consideration by the Board, unless good cause is shown. 37 CFR § 41.37(c)(vii). The Board has leeway to consider arguments or authorities not included in the brief under circumstances where the failure to include them can be justified. Notice of May 3, 1988 (1092 O.G. 26-35).
+
+NOTE: The rule requires that the brief must set forth the authorities and arguments relied upon. It is essential that the Board be provided with a brief fully stating the position of the appellant with respect to each ground of rejection presented for review in the appeal so that no search of the record is required in order to determine that position. Thus, the brief should not incorporate or reference previous responses. 37 CFR 41.37(c)(1) requires that the brief contain specific items, as [set forth in the rule]. MPEP § 1205.02, 8th Edition, Rev. 8.
+
+NOTE: 37 CFR § 41.37(c)(2) prohibits the inclusion in a brief of any new or non-admitted amendment, affidavit or other evidence. MPEP § 1205.02, 8th Edition, Rev. 8. Evidence does not include dictionaries which may be cited before the Board. 37 CFR § 41.30 and 76 FR 72270, 72272-3 (Nov.. 22, 2011).
+37 CFR § 41.37 APPEAL BRIEF (JANUARY 2013)
+
+NOTE: Appellant's brief is required by 37 CFR § 41.37 to contain the following items, under appropriate headings, in the following order:
+(1)	Identification of real party in interest.
+(2)	Identification of related appeals and interferences.
+(3)	Summary of the claimed subject matter defined in each rejected independent claim.
+(4)	Arguments of appellant with respect to each ground of rejection presented for review, with each ground treated under a separate heading. When multiple claims subject to the same ground of rejection are argued as a group, the claims may stand or fall together. A claim argued separately should be placed under a subheading identifying the claim by number.
+(5)	An appendix containing a copy of the claims involved in the appeal. 
+(See MPEP § 1205 for elaboration of these requirements.)
+
+NOTE: If a brief is filed which does not comply with all the requirements of paragraph (c) of this section, appellant will be notified of the reasons for non-compliance and given a time period within which to file an amended brief. If appellant does not, within the set time period, file an amended brief that overcomes all the reasons for non-compliance stated in the notification, the appeal will stand dismissed. 37 CFR § 41.37(d)
+
+WARNING: Any arguments  or authorities not included in the brief permitted under this section or §§ 41.68 and 41.71 will be refused consideration by the Board, unless good cause is shown. 37 CFR § 41.37(c)(vii). The Board has leeway to consider arguments or authorities not included in the brief under circumstances where the failure to include them can be justified. Notice of May 3, 1988 (1092 O.G. 26-35).
+
+NOTE: The rule requires that the brief must set forth the authorities and arguments relied upon. It is essential that the Board be provided with a brief fully stating the position of the appellant with respect to each ground of rejection presented for review in the appeal so that no search of the record is required in order to determine that position. Thus, the brief should not incorporate or reference previous responses. 37 CFR 41.37(c)(1) requires that the brief contain specific items, as [set forth in the rule]. MPEP § 1205.02, 8th Edition, Rev. 8.
+
+NOTE: 37 CFR § 41.37(c)(2) prohibits the inclusion in a brief of any new or non-admitted amendment, affidavit or other evidence. MPEP § 1205.02, 8th Edition, Rev. 8. Evidence does not include dictionaries which may be cited before the Board. 37 CFR § 41.30 and 76 FR 72270, 72272-3 (Nov.. 22, 2011).
+
+
+				I. REAL PARTY IN INTEREST
+NOTE: The real party in interest should be identified by name. The Office explains: The identification of the real party in interest allows members of the Board to comply with ethics regulations associated with working in matters in which the member has a financial interest to avoid any potential conflict of interest. When an application is assigned to a subsidiary corporation, the real party in interest is both the assignee and either the parent corporation or corporations, in the case of joint ventures. One example of a statement identifying the real party in interest is: The real party in interest is XXXX corporation, the assignee of record, which is a subsidiary of a joint venture between YYYY corporation and ZZZZ corporation. MPEP § 1205.02, 8th Edition, Rev. 8.
+
+NOTE: A statement is NOT required if the named inventor or inventors are themselves the real party in interest. If an appeal brief does not contain a statement of the real party in interest, the Office may assume that the named inventor or inventors are the real party in interest. 37 CFR § 41.37(c)(1)(i).
+I. REAL PARTY IN INTEREST
+NOTE: The real party in interest should be identified by name. The Office explains: The identification of the real party in interest allows members of the Board to comply with ethics regulations associated with working in matters in which the member has a financial interest to avoid any potential conflict of interest. When an application is assigned to a subsidiary corporation, the real party in interest is both the assignee and either the parent corporation or corporations, in the case of joint ventures. One example of a statement identifying the real party in interest is: The real party in interest is XXXX corporation, the assignee of record, which is a subsidiary of a joint venture between YYYY corporation and ZZZZ corporation. MPEP § 1205.02, 8th Edition, Rev. 8.
+
+NOTE: A statement is NOT required if the named inventor or inventors are themselves the real party in interest. If an appeal brief does not contain a statement of the real party in interest, the Office may assume that the named inventor or inventors are the real party in interest. 37 CFR § 41.37(c)(1)(i).
+(37 CFR. § 41.37(c)(1)(i))
+
+The real party in interest in this appeal is , which is the owner of the present application by written assignment recorded at reel/frame number /.
+				II.  RELATED APPEALS, INTERFERENCES, AND TRIALS
+NOTE: A statement identifying by application, patent, appeal, interference, or trial number all other prior and pending appeals, interferences, trials before the Board, or judicial proceedings (collectively, ‘‘related cases’’) which satisfy all of the following conditions: involve an application or patent owned by the appellant or assignee, are known to appellant, the appellant’s legal representative, or assignee, and may be related to, directly affect or be directly affected by or have a bearing on the Board’s decision in the pending appeal, except that such statement is not required if there are no such related cases. If an appeal brief does not contain a statement of related cases, the Office may assume that there are no such related cases. 37 CFR § 41.37(c)(1)(ii).
+II.  RELATED APPEALS, INTERFERENCES, AND TRIALS
+NOTE: A statement identifying by application, patent, appeal, interference, or trial number all other prior and pending appeals, interferences, trials before the Board, or judicial proceedings (collectively, ‘‘related cases’’) which satisfy all of the following conditions: involve an application or patent owned by the appellant or assignee, are known to appellant, the appellant’s legal representative, or assignee, and may be related to, directly affect or be directly affected by or have a bearing on the Board’s decision in the pending appeal, except that such statement is not required if there are no such related cases. If an appeal brief does not contain a statement of related cases, the Office may assume that there are no such related cases. 37 CFR § 41.37(c)(1)(ii).
+(37 CFR. § 41.37(c)(1)(ii))
+
+IF THERE ARE NO RELATED PROCEEDINGS
+With respect to other appeals, interferences, and trials, the applicants’ legal representative and the assignee are unaware of any related proceedings which may be related to, directly affect or be directly affected by or have a bearing on the Board’s decision in the pending appeal.
+IF THERE ARE RELATED PROCEEDINGS
+With respect to other appeals, interferences, and trials which may be related to, directly affect or be directly affected by or have a bearing on the Board’s decision in the pending appeal, these are as follows:
+1.	
+				III.  SUMMARY OF CLAIMED SUBJECT MATTER
+NOTE: A concise explanation of the subject matter defined in each of the rejected independent claims, which shall refer to the specification in the Record by page and line number or by paragraph number, and to the drawing, if any, by reference characters. For each rejected independent claim, and for each dependent claim argued separately under the provisions of paragraph (c)(1)(iv) of this section, if the claim contains a means plus function or step plus function recitation as permitted by 35 USC 112, sixth paragraph, then the concise explanation must identify the structure, material, or acts described in the specification in the Record as corresponding to each claimed function with reference to the specification in the Record by page and line number or by paragraph number, and to the drawing, if any, by reference characters. Reference to the patent application publication does not satisfy the requirements of this paragraph. 37 CFR §41.37(c)(1)(iii).
+
+NOTE: The rule does not require a single format for compliance. However, the summary of claimed subject matter must refer to the specification in the record by page and line number or by paragraph number, and to the drawing, if any, by reference characters. Note that citation to the specification should be to the specification "in the Record" and not the patent application publication. The Board will find briefs to be non-compliant if the summary for the claimed subject matter does not include these required references to the specification and drawings. See 76 FR 72270 (Nov. 22, 2011).
+
+NOTE: The rules requires a concise explanation of the subject matter of rejected independent claims. A concise explanation for separately argued dependent claims is required only if such claims include a means plus function or step plus function recitation as permitted by 35 USC 112, sixth paragraph  However, the rule does not prohibit an appellant from providing a summary of claimed subject matter for all dependent claims argued separately, and the USPTO considers it a best practice for appellants to provide a summary of claimed subject matter for all dependent claims argued separately. See 76 FR 72270, 72283 comment 31 (Nov. 22, 2011).
+III.  SUMMARY OF CLAIMED SUBJECT MATTER
+NOTE: A concise explanation of the subject matter defined in each of the rejected independent claims, which shall refer to the specification in the Record by page and line number or by paragraph number, and to the drawing, if any, by reference characters. For each rejected independent claim, and for each dependent claim argued separately under the provisions of paragraph (c)(1)(iv) of this section, if the claim contains a means plus function or step plus function recitation as permitted by 35 USC 112, sixth paragraph, then the concise explanation must identify the structure, material, or acts described in the specification in the Record as corresponding to each claimed function with reference to the specification in the Record by page and line number or by paragraph number, and to the drawing, if any, by reference characters. Reference to the patent application publication does not satisfy the requirements of this paragraph. 37 CFR §41.37(c)(1)(iii).
+
+NOTE: The rule does not require a single format for compliance. However, the summary of claimed subject matter must refer to the specification in the record by page and line number or by paragraph number, and to the drawing, if any, by reference characters. Note that citation to the specification should be to the specification "in the Record" and not the patent application publication. The Board will find briefs to be non-compliant if the summary for the claimed subject matter does not include these required references to the specification and drawings. See 76 FR 72270 (Nov. 22, 2011).
+
+NOTE: The rules requires a concise explanation of the subject matter of rejected independent claims. A concise explanation for separately argued dependent claims is required only if such claims include a means plus function or step plus function recitation as permitted by 35 USC 112, sixth paragraph  However, the rule does not prohibit an appellant from providing a summary of claimed subject matter for all dependent claims argued separately, and the USPTO considers it a best practice for appellants to provide a summary of claimed subject matter for all dependent claims argued separately. See 76 FR 72270, 72283 comment 31 (Nov. 22, 2011).
+(37 CFR. § 41.37(c)(1)(iii))
+
+The following summarization explains how each of the independent claims reads on one or more embodiments of the present application. In this summarization, all figure designations refer to the present application, and all page and line numbers refer to the corresponding text of the present application. It should be appreciated that the below summaries are to be interpreted as merely nonlimiting examples--it being understood that all other embodiments upon which the claims read are also intended to be covered.
+A.	Independent Claim 1
+Independent claim 1 sets forth a method/apparatus that reads on several embodiments of the present application. For instance, referring to the embodiment illustrated in FIG.  and described on pages , 
+				IV. ARGUMENT
+WARNING: If appellant wishes to have a claim considered separately, he must explain why it is separately patentable in a separate subheading. Failure to argue patentability of a claim under a separate subheading will result in a waiver of appellant's right to have each claim considered separately by the Board. A statement which merely points out what a claim recites will not be considered an argument for separately patentability of the claim. 37 CFR §41.37(c)(1)(iv).
+
+NOTE: The arguments of appellant with respect to each ground of rejection, and the basis therefor, with citations of the statutes, regulations, authorities, and parts of the Record relied on. The arguments shall explain why the examiner erred as to each ground of rejection contested by appellant. Except as provided for in §§ 41.41, 41.47 and 41.52, any arguments or authorities not included in the appeal brief will be refused consideration by the Board for purposes of the present appeal. Each ground of rejection contested by appellant must be argued under a separate heading, and each heading shall reasonably identify the ground of rejection being contested (e.g., by claim number, statutory basis, and applied reference, if any). For each ground of rejection applying to two or more claims, the claims may be argued separately (claims are considered by appellant as separately patentable), as a group (all claims subject to the ground of rejection stand or fall together), or as a subgroup (a subset of the claims subject to the ground of rejection stand or fall together). When multiple claims subject to the same ground of rejection are argued as a group or subgroup by appellant, the Board may select a single claim from the group or subgroup and may decide the appeal as to the ground of rejection with respect to the group or subgroup on the basis of the selected claim alone. Notwithstanding any other provision of this paragraph, the failure of appellant to separately argue claims which appellant has grouped together shall constitute a waiver of any argument that the Board must consider the patentability of any grouped claim separately. Under each heading identifying the ground of rejection being contested, any claim(s) argued separately or as a subgroup shall be argued under a separate subheading that identifies the claim(s) by number. A statement which merely points out what a claim recites will not be considered an argument for separate patentability of the claim. 37 CFR §41.37(c)(iv).
+
+NOTE: Although the rule has formally eliminated the specific requirements of the arguments addressing specific rejections, the PTO has indicated that they nevertheless provide useful advice as to what an effective argument ought to include. See Notice of August 12, 2004, 69 FR 49960, 49963. Therefore, this form has retained argument headings for different grounds of rejection along with the guidelines provided by the former 37 CFR 1.192(c)(8)(i)-(v).
+IV. ARGUMENT
+WARNING: If appellant wishes to have a claim considered separately, he must explain why it is separately patentable in a separate subheading. Failure to argue patentability of a claim under a separate subheading will result in a waiver of appellant's right to have each claim considered separately by the Board. A statement which merely points out what a claim recites will not be considered an argument for separately patentability of the claim. 37 CFR §41.37(c)(1)(iv).
+
+NOTE: The arguments of appellant with respect to each ground of rejection, and the basis therefor, with citations of the statutes, regulations, authorities, and parts of the Record relied on. The arguments shall explain why the examiner erred as to each ground of rejection contested by appellant. Except as provided for in §§ 41.41, 41.47 and 41.52, any arguments or authorities not included in the appeal brief will be refused consideration by the Board for purposes of the present appeal. Each ground of rejection contested by appellant must be argued under a separate heading, and each heading shall reasonably identify the ground of rejection being contested (e.g., by claim number, statutory basis, and applied reference, if any). For each ground of rejection applying to two or more claims, the claims may be argued separately (claims are considered by appellant as separately patentable), as a group (all claims subject to the ground of rejection stand or fall together), or as a subgroup (a subset of the claims subject to the ground of rejection stand or fall together). When multiple claims subject to the same ground of rejection are argued as a group or subgroup by appellant, the Board may select a single claim from the group or subgroup and may decide the appeal as to the ground of rejection with respect to the group or subgroup on the basis of the selected claim alone. Notwithstanding any other provision of this paragraph, the failure of appellant to separately argue claims which appellant has grouped together shall constitute a waiver of any argument that the Board must consider the patentability of any grouped claim separately. Under each heading identifying the ground of rejection being contested, any claim(s) argued separately or as a subgroup shall be argued under a separate subheading that identifies the claim(s) by number. A statement which merely points out what a claim recites will not be considered an argument for separate patentability of the claim. 37 CFR §41.37(c)(iv).
+
+NOTE: Although the rule has formally eliminated the specific requirements of the arguments addressing specific rejections, the PTO has indicated that they nevertheless provide useful advice as to what an effective argument ought to include. See Notice of August 12, 2004, 69 FR 49960, 49963. Therefore, this form has retained argument headings for different grounds of rejection along with the guidelines provided by the former 37 CFR 1.192(c)(8)(i)-(v).
+(37 CFR. § 41.37(c)(1)(iv))
+
+The contentions of the applicant and the basis for those contentions with respect to each ground of rejection is presented below.
+				IV.A ARGUMENT
+NOTE: For each rejection under 35 USC 112, first paragraph, the argument shall specify the errors in the rejection and how the first paragraph of 35 USC 112 is complied with, including as appropriate, how the specification and drawings, if any, (A) Describe the subject matter defined by each of the rejected claims, (B) Enable any person skilled in the art to make and use the subject matter defined by each of the rejected claims, and (C) Set forth the best mode contemplated by the inventor of carrying out his or her invention. Former 37 CFR § 1.192(c)(8)(i).
+
+WARNING: If appellant wishes to have a claim considered separately, he must explain why it is separately patentable in a separate subheading. Failure to argue patentability of a claim under a separate subheading will result in a waiver of appellant's right to have each claim considered separately by the Board. A statement which merely points out what a claim recites will not be considered an argument for separate patentability of the claim. 37 CFR § 41.37(c)(1)(iv).
+IV.A ARGUMENT
+NOTE: For each rejection under 35 USC 112, first paragraph, the argument shall specify the errors in the rejection and how the first paragraph of 35 USC 112 is complied with, including as appropriate, how the specification and drawings, if any, (A) Describe the subject matter defined by each of the rejected claims, (B) Enable any person skilled in the art to make and use the subject matter defined by each of the rejected claims, and (C) Set forth the best mode contemplated by the inventor of carrying out his or her invention. Former 37 CFR § 1.192(c)(8)(i).
+
+WARNING: If appellant wishes to have a claim considered separately, he must explain why it is separately patentable in a separate subheading. Failure to argue patentability of a claim under a separate subheading will result in a waiver of appellant's right to have each claim considered separately by the Board. A statement which merely points out what a claim recites will not be considered an argument for separate patentability of the claim. 37 CFR § 41.37(c)(1)(iv).
+				IV.B ARGUMENT
+NOTE: For each rejection under 35 USC 112, second paragraph, the argument shall specify the errors in the rejection and how the claims particularly point out and distinctly claim the subject matter which applicant regards as the invention. Former 37 CFR § 1.192(c)(8)(ii).
+
+WARNING: If appellant wishes to have a claim considered separately, he must explain why it is separately patentable in a separate subheading. Failure to argue patentability of a claim under a separate subheading will result in a waiver of appellant's right to have each claim considered separately by the Board. A statement which merely points out what a claim recites will not be considered an argument for separate patentability of the claim. 37 CFR § 41.37(c)(1)(iv).
+IV.B ARGUMENT
+NOTE: For each rejection under 35 USC 112, second paragraph, the argument shall specify the errors in the rejection and how the claims particularly point out and distinctly claim the subject matter which applicant regards as the invention. Former 37 CFR § 1.192(c)(8)(ii).
+
+WARNING: If appellant wishes to have a claim considered separately, he must explain why it is separately patentable in a separate subheading. Failure to argue patentability of a claim under a separate subheading will result in a waiver of appellant's right to have each claim considered separately by the Board. A statement which merely points out what a claim recites will not be considered an argument for separate patentability of the claim. 37 CFR § 41.37(c)(1)(iv).
+B.	REJECTIONS UNDER 35 U.S.C. § 112, SECOND PARAGRAPH
+	1.	Claim  is patentable under § 112 because .
+
+				IV.C ARGUMENT
+NOTE: For each rejection under 35 U.S.C. 102, the argument shall specify the errors in the rejection and why the rejected claims are patentable under 35 U.S.C. 102, including any specific limitations in the rejected claims which are not described in the prior art relied upon the rejection. Former 37 CFR § 1.192(c)(8)(iii).
+
+WARNING: If appellant wishes to have a claim considered separately, he must explain why it is separately patentable in a separate subheading. Failure to argue patentability of a claim under a separate subheading will result in a waiver of appellant's right to have each claim considered separately by the Board. A statement which merely points out what a claim recites will not be considered an argument for separate patentability of the claim. 37 CFR § 41.37(c)(1)(iv).
+IV.C ARGUMENT
+NOTE: For each rejection under 35 U.S.C. 102, the argument shall specify the errors in the rejection and why the rejected claims are patentable under 35 U.S.C. 102, including any specific limitations in the rejected claims which are not described in the prior art relied upon the rejection. Former 37 CFR § 1.192(c)(8)(iii).
+
+WARNING: If appellant wishes to have a claim considered separately, he must explain why it is separately patentable in a separate subheading. Failure to argue patentability of a claim under a separate subheading will result in a waiver of appellant's right to have each claim considered separately by the Board. A statement which merely points out what a claim recites will not be considered an argument for separate patentability of the claim. 37 CFR § 41.37(c)(1)(iv).
+	1.	The  reference does not anticipate Claims 1 to  because .
+	2.	The  reference does not anticipate Claims 1 to  because .
+
+D.	REJECTION UNDER 35 U.S.C. § 103 OVER US PATENT NOS. 
+				IV.D ARGUMENT
+NOTE: For each rejection under 35 U.S.C. 103, the argument shall specify the errors in the rejection and, if appropriate, the specific limitations in the rejected claims which are not described in the prior art relied on in the rejection, and shall explain how such limitations render the claimed subject matter unobvious over the prior art.  If the rejection is based upon a combination of references, the argument shall explain why the references, taken as a whole, do not suggest the claimed subject matter, and shall include, as may be appropriate, an explanation of why features disclosed in one reference may not properly be combined with features disclosed in another reference.  A general argument that all the limitations are not described in a single reference does not satisfy the requirements of this paragraph. Former 37 CFR § 1.192(c)(8)(iv).
+
+WARNING: If appellant wishes to have a claim considered separately, he must explain why it is separately patentable in a separate subheading. Failure to argue patentability of a claim under a separate subheading will result in a waiver of appellant's right to have each claim considered separately by the Board. A statement which merely points out what a claim recites will not be considered an argument for separate patentability of the claim. 37 CFR § 41.37(c)(1)(iv).
+IV.D ARGUMENT
+NOTE: For each rejection under 35 U.S.C. 103, the argument shall specify the errors in the rejection and, if appropriate, the specific limitations in the rejected claims which are not described in the prior art relied on in the rejection, and shall explain how such limitations render the claimed subject matter unobvious over the prior art.  If the rejection is based upon a combination of references, the argument shall explain why the references, taken as a whole, do not suggest the claimed subject matter, and shall include, as may be appropriate, an explanation of why features disclosed in one reference may not properly be combined with features disclosed in another reference.  A general argument that all the limitations are not described in a single reference does not satisfy the requirements of this paragraph. Former 37 CFR § 1.192(c)(8)(iv).
+
+WARNING: If appellant wishes to have a claim considered separately, he must explain why it is separately patentable in a separate subheading. Failure to argue patentability of a claim under a separate subheading will result in a waiver of appellant's right to have each claim considered separately by the Board. A statement which merely points out what a claim recites will not be considered an argument for separate patentability of the claim. 37 CFR § 41.37(c)(1)(iv).
+	2.	Claims 1 to  are patentable over the  and  references because .
+				IV.E ARGUMENT
+NOTE: The argument shall specify the errors in the rejection and the specific limitations in the rejected claims, if appropriate, or other reasons that cause the rejection to be in error.  Former 37 CFR § 1.192(c)(6)(v).
+
+WARNING: If appellant wishes to have a claim considered separately, he must explain why it is separately patentable in a separate subheading. Failure to argue patentability of a claim under a separate subheading will result in a waiver of appellant's right to have each claim considered separately by the Board. A statement which merely points out what a claim recites will not be considered an argument for separate patentability of the claim. 37 CFR § 41.37(c)(1)(iv).
+IV.E ARGUMENT
+NOTE: The argument shall specify the errors in the rejection and the specific limitations in the rejected claims, if appropriate, or other reasons that cause the rejection to be in error.  Former 37 CFR § 1.192(c)(6)(v).
+
+WARNING: If appellant wishes to have a claim considered separately, he must explain why it is separately patentable in a separate subheading. Failure to argue patentability of a claim under a separate subheading will result in a waiver of appellant's right to have each claim considered separately by the Board. A statement which merely points out what a claim recites will not be considered an argument for separate patentability of the claim. 37 CFR § 41.37(c)(1)(iv).
+E.	REJECTIONS OTHER THAN 35 U.S.C. 102, 103, and 112
+	1.	Claims 1 to  are patentable over the  and  
+
+				V. CLAIMS APPENDIX
+
+NOTE: The copy of the claims should be double-spaced and the appendix should start on a new page. MPEP § 1205.02, 8th Edition, Rev. 8.
+
+NOTE: A brief shall contain An appendix containing a copy of the claims involved in the appeal. 37 CFR § 41.37(c)(1)(v). 
+
+NOTE: The copy of the claims should be a clean copy and should not include any markings such as brackets or underlining except for claims in a reissue application >and a reexamination proceeding<. See MPEP § 1454 for the presentation of the copy of the claims in a reissue application. MPEP § 1205.02, 8th Edition, Rev. 8.
+
+NOTE: For appeal briefs in a reexamination proceeding, For the sake of convenience, the copy of the claims involved should be double spaced and should start on a new page. Note that >the copy of the< claims on appeal in reexamination proceedings *>must< include all underlining and bracketing *>, as required by 37 CFR 1.530(f),< to reflect the changes made to the original patent claims throughout the prosecution of the reexamination. In addition, any new claims added in the reexamination should be completely underlined. This represents a departure from the procedure set forth in MPEP § 1205.02 for applications. MPEP 2274(V), 8th Edition, Rev. 7
+V. CLAIMS APPENDIX
+
+NOTE: The copy of the claims should be double-spaced and the appendix should start on a new page. MPEP § 1205.02, 8th Edition, Rev. 8.
+
+NOTE: A brief shall contain An appendix containing a copy of the claims involved in the appeal. 37 CFR § 41.37(c)(1)(v). 
+
+NOTE: The copy of the claims should be a clean copy and should not include any markings such as brackets or underlining except for claims in a reissue application >and a reexamination proceeding<. See MPEP § 1454 for the presentation of the copy of the claims in a reissue application. MPEP § 1205.02, 8th Edition, Rev. 8.
+
+NOTE: For appeal briefs in a reexamination proceeding, For the sake of convenience, the copy of the claims involved should be double spaced and should start on a new page. Note that >the copy of the< claims on appeal in reexamination proceedings *>must< include all underlining and bracketing *>, as required by 37 CFR 1.530(f),< to reflect the changes made to the original patent claims throughout the prosecution of the reexamination. In addition, any new claims added in the reexamination should be completely underlined. This represents a departure from the procedure set forth in MPEP § 1205.02 for applications. MPEP 2274(V), 8th Edition, Rev. 7
+(37 CFR. § 41.37(c)(1)(v))
+
+The text of the claims involved in the appeal are:
+
+
+
+
+	Respectfully submitted,
+
+
+	By	  	
+		Working Attorney, Reg. No. Atty Registration No.
+		Wilson, Ellis, Merton, Mallock & Harold LLP
+		111 Courthouse Circle, Suite 101
+		Philadelphia, Pennsylvania  19103-5137
+		Telephone (215) 634-3456    Fax (215) 637-7561
+		Email:  Atty Email
+

@@ -1,0 +1,31 @@
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	Client Reference #
+	Country Patent Application No. Basic Application No.
+	Filing Date:	Basic Application Date
+	Title:	Case TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+	
+Dear Contact Greeting:
+
+This is our final follow up to our previous correspondence concerning the issuance of a Final Office Action in the above-identified case.  The final deadline for placing this application in condition for allowance is , and it is not extendable.  
+
+To continue prosecuting this application, we will need to file a continuation application or appeal the Examiner’s Decision to the Patent Office Appeal Board.  Please call me to discuss this further so that we can decide how to proceed.  
+
+In the absence of your instructions, we will allow this application to become abandoned on .
+
+Sincerely,
+
+
+
+Working Attorney
+
+cc:	copyname
+  P86US

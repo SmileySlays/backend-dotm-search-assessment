@@ -1,0 +1,99 @@
+UNIFORM STIPULATED PROTECTIVE ORDER-INSTRUCTIONS
+
+	In order to obtain a protective order, Movant must establish good cause and confer in good faith to specify the terms of discovery and its limits, particularly as to trade secrets and protectable information under Fed. R. Civ. P. 26(c).  It is strongly recommended that counsel for all parties review the applicable rules to properly implement this form.
+
+	The Court has made this form available for the convenience of the parties and encourages them to consider using it because it is presumptively acceptable to the Court.  These instructions should be deleted before filing the proposed protective order.
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF PENNSYLVANIA
+PHILADELPHIA DIVISION
+
+
+
+)
+
+ABC COMPANY, INC.,
+)
+
+
+)
+
+Plaintiff(s),
+)
+
+
+)
+
+vs.
+)
+Case No. _________-XXX-YYY
+
+)
+
+XYZ COMPANY, LLC,
+)
+
+
+)
+
+Defendant(s).
+)
+
+
+)
+
+
+
+UNIFORM STIPULATED PROTECTIVE ORDER
+
+INTRODUCTION
+	The parties, by their undersigned counsel, pursuant to Fed. R. Civ. P. 26(c)(1), hereby stipulate to the following provisions of this Court’s Uniform Stipulated Protective Order.  
+SCOPE OF PROTECTED INFORMATION
+	In the course of discovery in this action, the parties may be required to produce information that constitutes, in whole or in part, protected information such as trade secrets, non-public research and development, commercial or financial information, or other information that may cause harm to the producing party or a non-party.  The parties anticipate production of the following categories of protected information:  ________________________________________ ______________________________________ [Here, the parties must define categories of protected information clearly and definitely so that the Court’s burden of enforcement, if called upon, is minimized.]
+DESIGNATION OF PROTECTED INFORMATION
+Scope:  This Order governs the production and handling of any protected information in this action.  Any party or non-party who produces protected information in this action may designate it as “Confidential” or “Attorneys’ Eyes Only” consistent with the terms of this Order.  “Designating Party” means the party or non-party who so designates the protected information; “Receiving Party” means the party or non-party to whom such information was produced or disclosed.  Whenever possible, the Designating Party must designate only those portions of a document, deposition, transcript, or other material that contain the protected information and refrain from designating entire documents.  Regardless of any designations made hereunder, the Designating Party is not otherwise restricted from use or disclosure of its protected information outside of this action.  In addition, any party may move to modify or seek other relief from any of the terms of this Order if it has first tried in writing and in good faith to resolve its needs or disputes with the other party(ies) pursuant to the terms of this Order and S.D. Ind. L.R. 37-1.
+Application to Non-Parties: Before a non-party is given copies of designated information as permitted hereunder, it must first sign the acknowledgment to be bound to these terms that is attached hereto as Exhibit A; if it fails to do so, the parties to this action must resolve any such dispute before making disclosure of designated information as permitted hereunder to the non-party.  If a non-party wishes to make designations hereunder, it must first sign the acknowledgment to be bound to these terms that is attached hereto as Exhibit A.  
+Timing and Provisional Protection:  Designations may be made at any time.  To avoid potential waiver of protection hereunder, the Designating Party should designate information at the time of production or disclosure, including on the record during the taking of any testimony.  Deposition testimony will be deemed provisionally protected for a period of 30 days after the transcript is released to the parties by the court reporter, although the parties may agree at any time to different timelines of provisional protection of information as Confidential or Attorneys’ Eyes Only as part of one or more specific depositions.  To retain any designations beyond the provisional period, a Designating Party must designate specific pages and lines of deposition testimony before the provisional period has expired. Such designations must be made in writing so that all counsel and court reporters may append the designation to all copies of the transcripts.
+Manner of Designation:  Information may be designated hereunder in any reasonable manner or method that notifies the Receiving Party of the designation level and identifies with specificity the information to which the designation applies.  If made verbally, the Designating Party must promptly confirm in writing the designation.  Whenever possible, the Designating Party should stamp, affix, or embed a legend of “CONFIDENTIAL” or “ATTORNEYS’ EYES ONLY” on each designated page of the document or electronic image.
+CHALLENGES TO DESIGNATED INFORMATION
+	In the event that a Receiving Party disagrees at any time with any designation(s) made by the Designating Party, the Receiving Party must first try to resolve such challenge in good faith on an informal basis with the Designating Party pursuant to S.D. Ind. L.R. 37-1.  The Receiving Party must provide written notice of the challenge and the grounds therefor to the Designating Party, who must respond in writing to the challenge within 15 days.  At all times, the Designating Party carries the burden of establishing the propriety of the designation and protection level.  Unless and until the challenge is resolved by the parties or ruled upon by the Court, the designated information will remain protected under this Order.  The failure of any Receiving Party to challenge a designation does not constitute a concession that the designation is proper or an admission that the designated information is otherwise competent, relevant, or material.
+LIMITED ACCESS/USE OF PROTECTED INFORMATION
+Restricted Use:  Information that is produced or exchanged in the course of this action and designated under this Order may be used solely for the preparation, trial, and any appeal of this action, as well as related settlement negotiations, and for no other purpose, without the written consent of the Designating Party.  No designated information may be disclosed to any person except in accordance with the terms of this Order.  All persons in possession of designated information agree to exercise reasonable care with regard to the custody, use, or storage of such information to ensure that its confidentiality is maintained.  This obligation includes, but is not limited to, the Receiving Party providing to the Designating Party prompt notice of the receipt of any subpoena that seeks production or disclosure of any designated information and consulting with the Designating Party before responding to the subpoena.  Any use or disclosure of Confidential or Attorneys’ Eyes Only information in violation of the terms of this Order may subject the disclosing person or party to sanctions.
+Access to “Confidential” Information:  The parties and all persons subject to this Order agree that information designated as “CONFIDENTIAL” may only be accessed or reviewed by the following:
+The Court, its personnel, and court reporters;
+Counsel of record for any party in this action and their employees who assist counsel of record in this action and are informed of the duties hereunder;
+ The parties, including their agents and employees who are assisting or have reason to know of this action, so long as each such agent or employee has signed the acknowledgment to be bound to these terms that is attached hereto as Exhibit A;
+Experts or consultants employed by the parties or their counsel for purposes of this action, so long as each such expert or consultant has signed the acknowledgment to be bound to these terms that is attached hereto as Exhibit A; and
+Other witnesses or persons with the Designating Party’s consent or by court order.
+[INSTRUCTIONS:  USE ONLY IF APPLICABLE.  Because designation of information as “Attorneys’ Eyes Only” is more restrictive on disclosure and may interfere with the discovery process, such designations should be used infrequently and minimally.  Delete these instructions before submission.]
+Access to “Attorneys’ Eyes Only” Designations:  The parties and all persons subject to this Order agree that information designated as “ATTORNEYS’ EYES ONLY” may only be accessed or reviewed by the following:
+The Court, its personnel, and court reporters;
+Counsel of record for any party in this action and their employees who assist counsel of record in this action and are informed of the duties hereunder;
+ The following representatives for each party, who must also sign the acknowledgment to be bound to these terms that is attached hereto as Exhibit A:
+For Plaintiff:_____________________________________;
+For Defendant(s):_________________________________;
+Experts or consultants employed by the parties or their counsel for purposes of this action, so long as each such expert or consultant ______________________________________________ [describe here, with particularity, the parameters for when “ATTORNEYS’ EYES ONLY” information may be disclosed to experts or consultants who may have been associated with any party or non-party competitors without knowledge of the Designating Party; delete these instructions before submission]; and
+Other witnesses or persons to whom the Designating Party agrees in advance of disclosure or by court order.
+Review of Witness Acknowledgments:  At any time and for any purpose, including to monitor compliance with the terms hereof, any Designating Party may demand to review all copies of Exhibit A in any Receiving Party’s possession.  The Receiving Party must, within 3 business days of the demand, provide all such copies to the Designating Party making the demand.  Notwithstanding the foregoing, if the Receiving Party has retained an expert whose identity has not yet been disclosed to the Designating Party, the Receiving Party may generically identify how many acknowledgments that it has in its possession attributable to non-disclosed experts, whose acknowledgements must later be provided contemporaneously with any reports issued by one or more of said experts.  If a Receiving Party is not required to disclose the identity of any consulting experts, it may not be compelled to produce any acknowledgments from those experts to the Designating Party.  However, if the Designating Party provides to the Court evidence of breach of this Order via unauthorized leak of designated information, the Court may require an in camera production of all acknowledgments held by a Receiving Party in order to determine breach and consider enforcement of this Order.
+Non-Waiver Effect of Designations:  Neither the taking of, nor the failure to take, any action to enforce the provisions of this Order, nor the failure to object to any designation, will constitute a waiver of any party’s claim or defense in this action or any other action or proceeding, including but not limited to a claim or defense that any designated information is or is not confidential, is or is not entitled to particular protection, or embodies or does not embody information protectable by law. 
+In-Court Use of Designated Information:  If information designated pursuant to this Order will or may be offered in evidence at a hearing or trial, then the offering party must give advance notice to the party or non-party that designated prior to offering the information so that any use or disclosure may be addressed in accordance with the Court’s case-management or other pre-trial order, or by a motion in limine. 
+	Nothing in this Order shall be construed as a waiver by a party of any objections that may be raised as to the admissibility at trial of any evidentiary materials.
+CLAW-BACK REQUESTS
+Failure to Make Designation:  If, at any time, a party or non-party discovers that it produced or disclosed protected information without designation, it may promptly notify the Receiving Party and identify with particularity the information to be designated and the level of designation (the claw-back notification).  The Receiving Party may then request substitute production of the newly-designated information.  Within 30 days of receiving the claw-back notification, the Receiving Party must (1) certify to the Designating Party it has appropriately marked or, if substitute production has been requested,  destroyed all unmarked copies that it received, made, and/or distributed; and (2) if it was practicably unable to mark or destroy any information because disclosures occurred while the Receiving Party was under no duty of confidentiality under the terms of this Order regarding that information, the Receiving Party must reasonably provide as much information as practicable to aid the Designating Party in protecting the information, consistently with the Receiving Party’s attorney-client, work-product, and/or trial-preparation privileges.
+Inadvertent Production of Privileged Information:  If, at any time, a party discovers that it produced information that it reasonably believes is subject to protection under the attorney/client, work-product, or trial-preparation privileges, then it must promptly notify each Receiving Party of the claim for protection, the basis for it, amend its privilege log accordingly, and comply with Fed. R. Civ. P. 26(b)(5).  Whenever possible, the producing party must produce substitute information that redacts the information subject to the claimed protection.  The Receiving Party must thereupon comply with Fed. R. Civ. P. 26(b)(5) as to the information subject to the claimed protection.  The parties must also comply with S.D. Ind. L.R. 37-1 before seeking Court intervention to resolve any related dispute.
+DURATION/CONTINUED RESTRICTIONS
+Handling of Designated Information Upon Conclusion of Action:  Upon conclusion of this action, including all appeals, the Designating Party(ies) is/are responsible for ensuring that any party or person to whom the party shared or disclosed designated information in this action returns or destroys all of its copies, regardless of the medium in which it was stored.  Within 60 days after the later of dismissal of this action or expiration of all deadlines for appeal, the Receiving Party(ies) must certify to each Designating Party that all designated information hereunder has been destroyed by all parties and witnesses for whom that party is responsible.  No witness or party may retain designated information that it received from any other party or non-party under this Order; only counsel of record are the authorized agents who may retain one copy for their respective legal files, and who must also describe to the Designating Party the extra steps taken to seal its legal file containing paper and/or electronic copies of the designated information so that it is not accessed, used, or disclosed inconsistently with the obligations under this Order.  This provision does not apply to the Court or Court staff.
+Continued Restrictions Under this Order:  The restrictions on disclosure and use of confidential information survive the conclusion of this action.  
+REQUESTS TO SEAL 
+	This protective order does not authorize a party to file or maintain a document under seal.   Any party that seeks to file any document, or any portion of a document, under seal, and any party that opposes its maintenance under seal, must comply with S.D. Ind. L.R. 5-11.  
+
+[INSERT DATE & SIGNATURE BLOCK FOR THE PARTIES]
+[INSERT DATE  & SIGNATURE BLOCK FOR THE COURT]
+
+EXHIBIT A
+
+[INSERT CAPTION FOR CASE]
+
+AGREEMENT TO BE BOUND BY PROTECTIVE ORDER  
+	The undersigned acknowledges having been provided with and having read the “Uniform Stipulation Protective Order” in this matter ("Protective Order").  The undersigned further agrees he/she (i) is bound under the Protective Order, (ii) will comply with all of its provisions, and (iii) is subject to the jurisdiction of the Court for all purposes arising under the Protective Order, including enforcement of its terms.
+[INSERT DATE & SIGNATURE BLOCK WITH WITNESS ATTEST]
+

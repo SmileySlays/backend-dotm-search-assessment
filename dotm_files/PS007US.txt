@@ -1,0 +1,72 @@
+
+
+
+
+Today’s Date
+	ATTYNAME
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	Client Reference #
+	Title:	Case TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+
+Dear Contact Greeting:
+
+FOLLOW UP ON PATENTABILITY OPINION	
+We have previously provided a patentability opinion concerning the above-identified concept, indicating that it appeared that patent protection was available for this concept. This is a reminder that we are awaiting your instructions on how to proceed in this matter.
+
+It is important to note that the ability to obtain a patent can be significantly affected by the passage of time. For example, it is not possible to file a patent application on subject matter which has been publicly disclosed for more than a year, or which has been sold or offered for sale for more than a year. It is also possible that an application will be filed by others claiming the same subject matter, which could undermine your rights. The potential for loss of rights is even greater with respect to possible patent protection outside of the United States. For example, most foreign countries require that at least the US application be on file before the invention is publicly accessible.
+
+We therefore urge you to let us know at your earliest convenience if you wish to proceed with a patent application. Please do not hesitate to contact us if you have any questions or wish to discuss this matter further before deciding how to proceed. We look forward to receiving your instructions, which you may conveniently provide by checking the appropriate option below. In the absence of a response, we will assume that you have decided not to pursue this invention at this time and we will close our file.
+
+P6US
+
+FOLLOW UP ON PATENTABILITY OPINION - PRE-FILING 
+We have previously received [disclosure, sent draft IN, etc.] This is a reminder that we are awaiting your instructions on how to proceed in this matter.
+
+It is important to note that the ability to obtain a patent can be significantly affected by the passage of time. For example, it is not possible to file a patent application on subject matter which has been publicly disclosed for more than a year, or which has been sold or offered for sale for more than a year. It is also possible that an application will be filed by others claiming the same subject matter, which could undermine your rights. The potential for loss of rights is even greater with respect to possible patent protection outside of the United States. For example, most foreign countries require that at least the US application be on file before the invention is publicly accessible.
+
+We therefore urge you to let us know at your earliest convenience if you wish to proceed with a patent application. Please do not hesitate to contact us if you have any questions or wish to discuss this matter further before deciding how to proceed. We look forward to receiving your instructions, which you may conveniently provide by checking the appropriate option below. In the absence of a response, we will assume that you have decided not to pursue this invention at this time and we will close our file.
+
+P6aUS
+
+Sincerely,
+
+
+
+Working Attorney
+
+Enclosure
+
+cc:	copyname
+  
+  
+INSTRUCTION FORM
+
+	Please return this form to:	Working Attorney 
+		Wilson, Ellis, Merton, Mallock & Harold LLP
+		111 Courthouse Circle, Suite 101
+		Philadelphia, IN 19103-5137
+
+	Or fax to:	(215) 637-7561
+
+
+Re:	Client Reference #
+	Title:	Case TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+
+
+	Yes, we want to proceed with a patent application. We will be in contact to discuss this further.
+
+	No, we do not wish to proceed with a patent application. Please close your file on this matter.
+
+	We have not decided whether to proceed with a patent application for this case. Please follow up again in _____ months.
+
+
+
+______________________________		
+Date						Signature
+ 

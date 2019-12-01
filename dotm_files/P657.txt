@@ -1,0 +1,52 @@
+Prepared by:  Attorney (initials)  Working Atty		Secretary  User Login	 	Date:  Today’s Date	
+APPLICATION DATA
+Application Type		UTILITY:		DESIGN:	  INTERNATIONAL
+			Accelerated Exam			Accelerated Exam
+			Nonprovisional			Nonprovisional
+			Provisional 			Reexam
+			Reexam 			Reissue
+			Reissue
+			US National Stage (371)
+Is a client copy of completed submission needed?
+  Yes           No
+Application Title	Case Data/Case Title (Above title text is from Patricia; if not the same as in the specification document, use title from specification and notify  Docketing to update Patricia/Elite)
+Attorney Docket No.	Case Data/Elite Matter Number
+First  Named Inventor	Name/Inventor/First, Middle, Last Sequence No. 1
+Customer No. 	Name/General Power of Attorney No./Client
+DOCUMENTS FOR SUBMISSION
+
+Create a folder in M:\FORMALITIES\ with the matter number name.  All documents MUST be in PDF format (letter size 8 ½ x 11) and file names cannot contain spaces or symbols.  (e.g. M:\Formalities\4002-9876\Power_Of_Attorney)
+	Application Data Sheet	Pages total	     
+	Application Parts 		Page start		Page end
+		Specification	     	     
+		Claims	     	     
+		Abstract	     	     
+	Drawings 			Pages total	     
+	Declaration		Pages total	     
+	Power of Attorney
+		PTO SB/80 POA to Prosecute Application (signed by Applicant/Owner)
+		PTO SB/96 37 CFR 3.73
+		Copy of Assignment (optional)
+		PTO SB/81 POA/Correspondence (optional)
+	IDS Cover Letter 	Pages total	     
+	IDS			Pages total	     
+		Foreign References	No. attached	     
+		Translations	No. attached	     
+		Non-Patent Literature 	No. attached	     
+	Other:       
+FEE CALCULATION	Are fees to be paid? 	  Yes      No
+Entity size 		Large	  Small
+Additional claims fee? 		No	  Yes	Total Claims	         	Total Independent Claims	          .
+Other fees? 	     
+TO BE COMPLETED AFTER SUBMISSION IS COMPLETE
+	Electronic Acknowledgement Receipt and Fee Transmittal 	  Saved to matter
+		  Copy printed for file
+		  Copy of Electronic Acknowledgement Receipt sent to Billing
+		  Copy of Electronic Acknowledgement Receipt sent to Docketing
+	Download all documents from PTO PAIR Image File Wrapper 
+	Make client copy of submission documents
+	Save downloaded documents to WorkSite "as e-filed"
+	Mount original of submission documents in file
+	Delete folder on M: drive
+	Update PATRICIA (e.g., IDS Citation table)
+

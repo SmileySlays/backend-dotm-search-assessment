@@ -1,0 +1,49 @@
+
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+
+NameAddress
+Re:	Client Reference #
+	European Patent Application No. Application No.
+	Filing Date:	Application Date
+	Title:	Case TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+
+Dear Contact Greeting:
+
+[P454EP regarding validation in the designated countries.  These two letters can usually be combined into one letter.]
+We are pleased to report that we have received the European Patent Office communication under Rule 51(6)EPC indicating acceptance of the patent text as amended, and setting the deadline of  for preparing French and German language translations of the claims at the European Patent Office and to pay the print and grant fees.  The estimated cost of the printing and grant fee is $, and the estimated cost for translating the claims is $.
+			
+Please let us have your instructions in this regard. 
+
+Sincerely,
+
+
+
+Working Attorney
+
+Enclosure
+
+Include after closing:
+	Please proceed with the payment of fees, preparation of translations and national stage processing for this case in all designated countries.  
+
+	Please proceed with the payment of fees, preparation of translations and national stage processing for this case in only the following countries:
+		
+
+	Please do NOT proceed with this application, but allow it to go abandoned.
+
+
+
+______________________________		
+Date						Signature
+
+cc:	copyname
+  P53EP 
+
+

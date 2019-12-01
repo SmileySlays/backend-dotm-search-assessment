@@ -1,0 +1,42 @@
+
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+
+NameAddress
+Re:	Client Reference #
+	Country Patent Application No. Basic Application No.
+	Filing Date:	Basic Application Date
+	Title:	Case TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+	
+Dear Contact Greeting:
+
+We are pleased to report that the above-identified Canadian patent application has been allowed.  The deadline for payment of the issue fee is .  We anticipate receiving the Certificate of Patent within 3 to 6 months after the payment of the issue fee.  
+
+Please let us have your instructions regarding payment of this fee by checking one of the boxes below and returning a copy of this letter to us.  In the absence of your instructions, we will not pay the issue fee.
+
+Please do not hesitate to contact us if you have any questions.
+
+Sincerely,
+
+
+
+Working Attorney
+[After the closing, add the following:]
+	Please proceed with payment of the issue fee for the above-identified Canadian patent application.
+
+	Please do not pay the issue fee for the above-identified Canadian patent application, and allow the case to go abandoned.
+
+______________________________		
+Date						Signature
+
+Enclosure
+
+cc:	copyname
+  P11CA

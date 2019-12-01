@@ -1,0 +1,33 @@
+
+
+
+
+General/Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	Client Reference #
+	Case Country Patent Application No. Basic Application No.
+	Filing Date:	Basic Application Date
+	Title:	Case TITLE
+	Inventor(s):	Name/DNC/Inventors
+	Our Ref.:	Elite Matter No.
+	
+Dear Contact Greeting:
+
+We are pleased to report that the above-identified patent application has been allowed. A copy of the Notice of Acceptance is enclosed.
+
+The acceptance of this application was advertised on [Date] will be advertised in the near future in the Australian Official Journal of Patents. The acceptance fee must be paid approximately three months from the date of advertisement. Unless we receive your instructions to the contrary, we will proceed to pay the acceptance fee by the deadline.
+
+If you have any questions or comments about this case, please let us know. 
+Sincerely,
+
+
+
+Working Attorney
+
+Enclosure
+
+cc:	copyname
+  P17AU1

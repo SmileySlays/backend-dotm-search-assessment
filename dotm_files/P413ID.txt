@@ -1,0 +1,39 @@
+
+
+
+
+General/Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+
+NameAddress
+Re:	Case Data/References/Client Reference #
+	Case Data/Case Country Patent Application No. Case Data/Diary Field/Basic Application No.
+	Filing Date:	Case Data/Diary Field/Basic Application Date
+FOR REGISTERED PATENTS
+	Patent No.:	Case Data/Diary Field/Patent, Registration No.
+	Issue Date:	Case Data/Diary Field/Patent, Registration Date
+	Title:	Case Data/Case TITLE
+	Inventor(s):	Name/DNC/Inventors
+	Our Ref.:	Case Data/Elite Matter No.
+	
+Dear Name/DNC/Correspondence Address-Contact Greeting:
+
+We are pleased to enclose the Letters Patent for the above-identified patent case in Indonesia.  The term of the patent is fourteen years from the date of filing, therefore expiring on date, subject to the payment of annual renewal fees.  We have already docketed these maintenance fees with our annuity payment agency, and will automatically pay these fees as they come due unless instructed otherwise by you.
+
+Please note that patents may be extended in Indonesia one time for a period of two years.  The request for extension of the duration of the patent must be filed (with payment of the required fee) at least six months and not more than twelve months before expiration of the initial fourteen-year period.  The owner of the patent must submit convincing proof to the Patent Office that  (1) the earnings gained from the application or use of the patent are insufficient to cover all the costs of the research and development which produced the invention; and  (2) the patent has already been used continuously in Indonesia and will continue to be used in Indonesia for export purposes.  We have docketed a one-year prior date in which to remind you of this deadline and will be contacting you further at that time.  DOCKET 1 YEAR PRIOR TO EXPIRATION TO REQUEST INSTRUCTIONS FROM CLIENT TO EXTEND PATENT DURATION
+
+Please confirm receipt of this patent document by signing below and returning a copy of this letter to us for our records.  If you have any questions regarding this patent, please do not hesitate to contact us. 
+
+Sincerely,
+
+
+
+Case Data/Team Member/Working Attorney
+
+Enclosure
+
+cc:	copyname
+  
+P13ID1 (Rev 01/08)

@@ -1,0 +1,78 @@
+
+
+
+
+General/Today’s Date
+	AttyName
+	AttyEmail
+VIA FACSIMILE Name/Fax No/Foreign Agent Fax No.	AttyPhone
+
+Confirmation with any Enclosures via Air Mail
+
+Name/DNC/Contact Name-Foreign Agent
+Name/Foreign Agent (using Official Name)
+Name/Address Information/Foreign Agent
+
+IF SENDING VIA COURIER TO PHYSICAL ADDRESS:
+Name/Address Information/Foreign Agent, Physical Address
+
+Re:	Case Data/References/Foreign Reference #
+	Case Data/Case Country Patent Application No. Case Data/Diary Field/Basic Application No.
+	Filing Date:	Case Data/Diary Field/Basic Application Date
+IF FOR A REGISTERED PATENT
+	Patent No.:	Patent/Registration No.
+	Issue Date:	Patent/Registration Date
+	Applicant:	Name/Applicant/Current Owner
+	Title:	Case Data/CASE TITLE
+	Inventor(s):	Name/DNC/Inventor Last Names
+	Our Ref.:	Case Data/Elite Matter Number
+
+Dear Name/DNC/Contact Greeting-Foreign Agent:
+
+We have received and thank you for your recent correspondence concerning the above-identified case.  In response to the requirement by the Israel Patent Office, we are enclosing a cumulative list of information pertaining to prior art cited in related patent applications.  This case claims priority from the counterpart United States patent application, and therefore no information is required concerning other published specifications.  
+
+Please let us know if you require any additional information or comments in order to proceed with a response to the Israel Patent Office.  Please confirm the submission of this information prior to the deadline.  We thank you in advance for your assistance. 
+
+Sincerely,
+
+
+
+Case Data/Team Member/Working Attorney
+
+Enclosures
+
+P13IL (Rev. 02/08)
+
+Date:	General/Today’s Date
+
+Number of Pages:  Cover sheet plus                page(s)
+
+CONFIRMATION OF RECEIPT REQUESTED IF CHECKED:  
+ORIGINAL COPY AND ANY ENCLOSURES
+  WILL
+  WILL NOT
+BE SENT
+
+	To:	Name/DNC/Contact Name-Foreign Agent
+	Company:	Foreign Agent
+	Your Reference:	Case Data/References/Foreign Reference #
+	Fax Number:	Name/Fax No/Foreign Agent Fax No.
+
+	From:	Case Data/Team Member/Working Attorney
+	Our Reference:	Case Data/Elite Matter Number
+
+	Comments:	     
+
+
+
+
+
+
+
+
+
+
+
+
+
+

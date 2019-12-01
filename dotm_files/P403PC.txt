@@ -1,0 +1,36 @@
+
+
+
+
+
+
+
+General/Today’s Date
+
+
+
+NameAddress
+	Re:	Case Data/References/Client Reference #
+		Case Data/Case Country Patent Application No. Case Data/Diary Field/Basic Application No.
+		Filing Date:	Case Data/Diary Field/Basic Application Date
+		Title:	Case Data/Case TITLE
+		Inventor(s):	Name/DNC/Inventors
+		Our Ref.:	Case Data/Elite Matter No.
+	
+Dear Name/DNC/Correspondence Address-Contact Greeting:
+
+	Enclosed is a notice from the International Preliminary Examining Authority indicating that the application lacks unity of invention and is considered to contain multiple inventions.  The deadline for paying additional fees or restricting the claims is .  
+
+	Unless we hear to the contrary, we will proceed to pay the additional fees to have all inventions considered in the International Search Report for this case. 
+
+						Sincerely,
+
+
+
+						Case Data/Team Member/Working Attorney
+
+Enclosure
+
+cc:	copyname
+  p3pc
+ 

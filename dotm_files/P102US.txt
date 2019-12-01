@@ -1,0 +1,33 @@
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	Client Reference #
+	Case Country Patent No. Registration No.
+	Issue Date:	Registration Date
+	Title:	Case TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+	
+Dear Contact Greeting:
+
+Per your instructions, the maintenance fee for the subject US patent will not be paid and the patent will expire.  Accordingly, you need to review the current use (i.e., marking) of this patent number in connection with your products.  More specifically, we advise you to identify the products currently being marked with this patent number, as well as any product literature which references this patent.  
+
+It is advisable to remove the subject patent number from the corresponding products as soon as practical after the patent expires.  
+
+If you have any questions or concerns regarding patent marking, please let us know.
+ 
+Sincerely,
+
+
+
+Working Attorney
+
+cc:	Copy Name 
+ 
+
+P102

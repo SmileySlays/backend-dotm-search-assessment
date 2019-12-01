@@ -1,0 +1,33 @@
+
+
+
+Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	clref
+	US Provisional Patent Application No. serial
+	Filing Date:	fdate
+	Title:	TITLE
+	Inventor(s):	inventors
+	Our Ref.:	matterno
+
+Dear congreet:
+
+This is a follow-up to our previous correspondence concerning the above-identified provisional application.  Please advise if you wish to pursue regular patent application filings in the US or foreign countries.  Both the US and foreign applications must be filed within one year after the above-noted provisional application filing date to retain the benefit of the provisional filing date.
+
+In order to have time to prepare regular applications, we ask for your instructions by Term1481-2weeks.  If you would like to discuss this matter further before deciding how to proceed, please do not hesitate to contact us.
+
+In the absence of your instructions, we will assume that you do not want to proceed with regular filings, and we will allow the application to become abandoned.  
+
+Sincerely,
+
+
+
+Working Attorney
+
+cc:	Copy Name
+
+P66US
+

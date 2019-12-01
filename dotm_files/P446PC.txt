@@ -1,0 +1,50 @@
+
+
+
+
+
+
+
+General/Today’s Date
+
+
+
+NameAddress
+	Re:	Case Data/References/Client Reference #
+		Case Data/Case Country Patent Application No. Case Data/Diary Field/Basic Application No.
+		Filing Date:	Case Data/Diary Field/Basic Application Date
+		Title:	Case Data/Case TITLE
+		Inventor(s):	Name/DNC/Inventors
+		Our Ref.:	Case Data/Elite Matter No.
+	
+Dear Name/DNC/Correspondence Address-Contact Greeting:
+
+	We have now received the International Preliminary Examination Report as established in the above-identified patent application and enclose a copy for your consideration.  The next step for this application is to enter the national stage by the deadline of .  
+
+	We would be pleased to assist with the national filings for this case, but we assume that Eli Lilly will handle the national filings.  Please let us have your instructions by checking the appropriate box below and returning a copy of this letter.  
+
+	If we can be of further assistance, please do not hesitate to contact us. 
+
+						Sincerely,
+
+
+
+						Case Data/Team Member/Working Attorney
+
+Enclosure
+
+cc:	copyname
+  p46pc
+
+
+[After the closing, add the following:]
+
+	We will be handling any national filings for this case; please have the PCT file delivered to our office at your earliest convenience.
+
+	We will provide instructions on OUS filings at a later time.
+
+
+
+______________________________		
+Date						Signature
+

@@ -1,0 +1,34 @@
+
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+
+NameAddress
+Re:	References/Client Reference #
+	Case Country Patent Application No. Basic Application No.
+	Filing Date:	Basic Application Date
+	Title:	Case TITLE
+	Inventor(s):	Name/DNC/Inventors
+	Our Ref.:	Elite Matter No.
+	
+Dear Name/DNC/Correspondence Address-Contact Greeting:
+
+We are pleased to report that the above-identified application was filed in India on Basic Application Date and assigned Application No. Basic Application No..  This application receives the benefit of the U.S. Priority filing date of date.
+
+We will keep you advised of further developments with respect to this application as the case progresses.  In the meantime, please do not hesitate to contact us, if you have any questions.
+
+Sincerely,
+
+
+
+Working Attorney
+
+Enclosure
+
+cc:	copyname
+  
+P3IN 

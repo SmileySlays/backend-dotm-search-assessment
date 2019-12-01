@@ -1,0 +1,38 @@
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	Client Reference
+	Country Patent Application No. Application No.
+	Filing Date:	Filing Date
+	Title:	TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+
+Dear Contact Greeting:
+
+The filing of a patent application in the United States raises the requirement that the US Patent and Trademark Office (USPTO) be advised of any known prior art which is believed to be material to the patentability of the claimed invention.  The obligation to disclose prior art is a continuing duty throughout the prosecution of the patent application.  Disclosure of prior art should be made within three months of receiving knowledge of the art, or at least prior to a first Office Action in the US application, in order to avoid a submission fee.  
+
+Please advise if there is any known prior art which should be submitted to the USPTO.
+
+P21US
+
+TO REQUEST IDS INFORMATION FROM CLIENT FOR A NATIONAL STAGE OF PCT: 
+The pendency of the above-identified patent application raises the requirement in the United States that the Patent Office be advised of any known prior art which is believed to be material to the patentability of the claimed invention.  A petition fee will be required if the art is submitted after a first Office Action in the case or more than three months after learning of the art.  It therefore is advantageous to submit this art as soon as practical after filing the application or learning of the art.  
+
+The prior art to be submitted may take several forms.  Under US law, the art cited in the International Search Report (ISR) is not automatically considered by the patent examiner.  It therefore is advisable to separately submit the art cited in the ISR, and we ask that you provide us with copies of this art for submission in an Information Disclosure Statement.  Also, prior art would include patents and other printed publications in any country.  Therefore, please let us know also if there is any of this additional prior art which needs to be submitted for this application.
+
+P77US
+Sincerely,
+
+
+
+Working Attorney
+
+cc:	Copy Name 
+  
+

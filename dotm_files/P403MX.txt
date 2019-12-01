@@ -1,0 +1,37 @@
+
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+
+NameAddress
+Re:	Client Reference #
+	Case Country Patent Application No. Basic Application No.
+	Filing Date:	Basic Application Date
+	Title:	Case TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+	
+Dear Contact Greeting:
+
+We are pleased to report that the above-identified patent application was filed with the Patent Office in Mexico and assigned Application No. Basic Application No..  A copy of the filing receipt is enclosed.
+
+The filing date in Mexico is deemed to be the International Filing date of .  However, this application claims priority from the counterpart US application, and therefore has an effective filing date of .
+
+We will keep you advised of further developments with respect to this application as the case progresses.  In the meantime, please do not hesitate to contact us if you have any questions. 
+
+Sincerely,
+
+
+
+Working Attorney
+
+Enclosure
+
+cc:	copyname
+  
+P3MX
+ 

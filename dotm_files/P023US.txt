@@ -1,0 +1,42 @@
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	Client Reference
+	Country Patent Application No. Application No.
+	Filing Date:	Filing Date
+	Title:	TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+
+Dear Contact Greeting:
+
+We have now received a communication regarding examination of the above-identified patent application. The Examiner has concluded that the application includes more than one distinct invention. The Examiner has therefore issued a “restriction requirement”, indicating that an election needs to be made between the identified sets of claims regarded as relating to separate inventions. Specifically, the Examiner has divided the claims into the following inventions:
+
+Claims , drawn to .
+Claims , drawn to .
+
+We are required at this time to elect one of the separate inventions for substantive examination in the present application. In general, the selected invention should be the one which is of greatest interest.  We therefore ask that you consider which indicated group of claims relates to the most important subject matter, and we will proceed with an election of those claims. 
+
+The non-elected claims will be cancelled from the application, but they may be pursued in a separately filed divisional application. A divisional application, although it constitutes a separate application, will have the same effective filing date as the present application. Please note that, barring any adjustments, the expiration date of any patent issuing on a divisional case will be the same as the present application. Therefore, postponing the filing of the divisional case will not extend the ultimate expiration date, but will simply postpone the payment of charges associated with filing a divisional. On the other hand, delay in filing the divisional case will naturally result in a corresponding delay in issuance of any patent(s) thereon. We therefore ask that you specifically consider if you wish to proceed with a divisional application at this time or in the future, and let us have your instructions in that regard.
+
+In responding to the Requirement, we can (1) make the election "with traverse", i.e. challenge the Requirement altogether or try to reorganize the grouping of the claims; (2) make the election "without traverse", i.e. accept the Requirement; and/or (3) file one or more divisional applications as to claim Groups not elected in this case. It is common practice to elect with traverse, to try to reduce the number of claim Groups and thus the number of applications necessary to pursue all claims presented. Most often, this challenge is made on the basis that the claims are highly related, that the prior art for the claims is similarly classified, and that examination of the claims together will not seriously burden the Patent Office. Please review the Requirement with these things in mind, and provide your comments on the relationship of the various Groups, and/or on any inaccuracies in the technical assertions made in the Requirement. 
+
+Please contact us with your instructions as to how you wish to proceed. Please note that the deadline for responding to this Action is set for term10100, although this deadline can be extended in one month increments upon payment of late fees. In the absence of your instructions, we will respond to the Restriction/Election Requirement by electing  for substantive examination in advance of the deadline. In the meantime, if you have any questions or comments, or wish to discuss this matter in more detail, please do not hesitate to contact us.
+
+Sincerely,
+
+
+
+Working Attorney
+
+Enclosure
+
+cc:	Copy Name
+  P23US
+
+

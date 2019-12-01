@@ -1,0 +1,35 @@
+
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+
+NameAddress
+Re:	Client Reference #
+	Case Country Patent Application No. Application No.
+	Filing Date:	Application Date
+	Title:	Case TITLE
+	Our Ref.:	Elite Matter No.
+	
+Dear Contact Greeting:
+
+This letter will confirm that we have prepared and submitted a request for substantive examination for the above-identified case.  The Chinese patent specification was published in the Invention Patent Gazette on .  Enclosed is a copy of the published specification along with a copy of the Notice on Publication.
+
+Under the Hong Kong Patents Ordinance, a patent can be obtained in Hong Kong based upon a confirmed patent application for invention in the People’s Republic of China.  The procedure requires the filing of a request to record the Chinese patent application within six months from the date of publication of the Chinese patent application.  A request for registration will then have to be filed within six months from the date of grant of the Chinese patent.  It would therefore be necessary to file a request by six months from publication date, at a cost of approximately $900, to obtain a patent in Hong Kong under this procedure.
+
+Please let us know if you wish to proceed with protection in Hong Kong.  Unless we receive instructions to the contrary, we will assume that you do not wish to record this application in Hong Kong.  We will keep you advised of further developments regarding the application in China as the case progresses.
+ 
+Sincerely,
+
+
+
+Working Attorney
+
+Enclosure
+
+cc:	copyname
+  
+P11CN1 

@@ -1,0 +1,47 @@
+
+
+
+
+General/Today’s Date
+	AttyName
+Via e-mail Contact Email	AttyEmail
+Confirmation with enclosures via First Class U.S. Mail	AttyPhone
+
+
+NameAddress
+Re:	Client Reference #
+	Country Patent No. Registration No.
+	Issue Date:	Registration Date
+	Title:	CASE TITLE
+	Inventor(s):	inventors
+	Our Ref.:	Elite Matter No.
+
+Dear congreet:
+
+The above-identified patent issued on Registration Date.  After three years from this grant date, any person may apply for the grant of a compulsory license to use the invention where it has not been used unless there are duly justified reasons for such non-use.  However, a compulsory license may not be granted by the Mexican Patent Office if the patentee files a proof of working or importation statement or an excuse for non-working.
+
+Accordingly, in order to discourage third parties from requesting a compulsory license, we recommend filing proof of working or an importation statement of the above-referenced invention.  The deadline for filing this information is Foreign Use Due Deadline Term 31400.
+
+To file the proof of working statement, we will need:
+
+1.	the name and address of Mexican licensee who is manufacturing the patented product in Mexico;
+2.	the date on which exploitation began; and
+3.	the date and registration number of the license agreement recorded at the Mexican Patent Office.
+
+The license must be recorded in the Mexican Patent office to satisfy the working statement requirement.
+
+To file a statement of importation, we will need:
+
+1.	the name and address of the Mexican buyer of the product;
+2.	the starting date of importation of the product; and
+3.	a copy of an invoice relating to the sale of the product imported into Mexico.
+
+Again, the deadline to file either a Proof of Working Statement or a Statement of Importation in Mexico is Foreign Use Due Deadline Term 31400.  We look forward to receiving your instructions.
+
+Very truly yours,
+
+
+
+atty
+General/Person, Employee/Email
+

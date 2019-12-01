@@ -1,0 +1,31 @@
+
+
+
+Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	clref
+	Country Patent Application No. serial
+	Filing Date:	fdate
+	Title:	TITLE
+	Inventor(s):	inventors
+	Our Ref.:	matterno
+
+Dear congreet:
+
+It has been several months since we have had any communications regarding the above-identified matter.  Please advise if there is anything further which we can do to assist in this regard.  
+
+In the absence of your instructions, we will simply close our file on this matter.
+
+Sincerely,
+
+
+
+atty
+
+cc:	copyname
+
+P50US
+

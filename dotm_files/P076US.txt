@@ -1,0 +1,30 @@
+
+
+
+Today’s Date
+
+
+NameAddress
+Re:	Client Reference #
+	Country Patent Application No. Basic Application No.
+	Filing Date:	Basic Application Date
+	Title:	Case TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+	
+Dear Contact Greeting:
+
+This is a reminder concerning the requirement in the United States that the Patent Office be advised of any known prior art which is believed to be material to the patentability of the claimed invention.  The obligation to disclose prior art is a continuing duty throughout the prosecution of the patent application.  Disclosure of prior art should be made within three months of receiving knowledge of the art, or at least prior to a first Office Action in the US application, in order to avoid a submission fee.  
+
+Please advise if there is any known prior art which should be submitted to the United States Patent Office. 
+
+Sincerely,
+
+
+
+Working Attorney
+
+cc:	copyname
+
+  P76US
+

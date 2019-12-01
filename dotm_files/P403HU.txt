@@ -1,0 +1,34 @@
+
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+
+NameAddress
+Re:	Client Reference #
+	Country Patent Application No. Basic Application No.
+	Filing Date:	Basic Application Date
+	Title:	Case TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+	
+Dear Contact Greeting:
+
+We are pleased to report that the above-identified PCT application entered the national phase in Hungary on Basic Application Date.  This application has been assigned Application No. Basic Application No..  However, this application claims priority from the counterpart U.S. application, and therefore has an effective filing date of .  
+
+We will keep you advised of any developments in the case.
+
+Sincerely,
+
+
+
+Working Attorney
+
+Enclosure
+
+cc:	copyname
+  
+P3HU 

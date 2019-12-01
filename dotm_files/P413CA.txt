@@ -1,0 +1,42 @@
+
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	Client Reference #
+	Country Patent Application No. Application No.
+	Filing Date:	Application Date
+	Patent No.:	Registration No.
+	Issue Date:	Registration Date
+	Title:		Case TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+	
+Dear Contact Greeting:
+
+We are pleased to enclose the original Letters Patent granted for the above-identified patent case in Canada.  The term of the patent is 20 years from the date of filing of the application, subject to the payment of annual maintenance fees.  We will contact you for instructions regarding payment of the annuities as they come due. 
+
+Please confirm receipt of this patent document by signing below and returning a copy of this letter to us for our records.  If you have any questions regarding this patent, please do not hesitate to contact us. 
+
+Sincerely,
+
+
+
+Working Attorney
+
+INSERT AFTER CLOSING:
+
+Receipt of the above-identified Canadian Letters Patent document is confirmed.
+
+______________________________		
+Date						Signature
+
+Enclosure
+
+cc:	Copy Name
+  
+P13CA1

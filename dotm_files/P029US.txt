@@ -1,0 +1,39 @@
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	Client Reference #
+	Case Country Patent Application No. Application No.
+	Filing Date:	Application Date
+	Title:	Case TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+
+Dear Contact Greeting:
+
+Please be advised that a Response to the Final Office Action in this case has been submitted to the Patent Office.  A copy of the Response is enclosed for your records.
+	
+IF REQUEST FOR CONTINUED EXAMINATION WAS FILED
+A Request for Continued Examination (RCE) was filed with this response.  The RCE allows prosecution of the application to be re-opened and is filed to ensure that the Examiner enters into the file and considers your claim amendments after a Final Rejection.  
+
+IF A RESPONSE AFTER FINAL WAS FILED
+This application is under a final rejection, and the final deadline for placing this application in condition for allowance is .  If this Response does not place the application in full form for allowance, we will need to consider other courses of action, such as filing a continuation application or appealing the Examiner’s Decision to the Patent Office Appeal Board.  
+
+We will notify you upon receipt of any further communication from the Patent and Trademark Office regarding this case.  As always, please do not hesitate to contact us if you have any additional comments or questions. 
+
+Sincerely,
+
+
+
+Working Attorney
+
+Enclosure
+
+cc:	Copy Name
+  
+P29US
+

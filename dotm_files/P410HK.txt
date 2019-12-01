@@ -1,0 +1,46 @@
+
+
+
+
+General/Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+
+NameAddress
+Re:	References/Client Reference #
+	Case Country Patent No. Diary Field/Patent, Registration No.
+	Issue Date:	Diary Field/Patent, Registration Date
+	Based on:	Patent Application No. Diary Field/Basic Application No.
+	Filing Date:	Diary Field/Basic Application Date
+	Title:	Case TITLE
+	Inventor(s):	Name/DNC/Inventors
+	Our Ref.:	Elite Matter No.
+	
+Dear Name/DNC/Correspondence Address-Contact Greeting:
+
+We are pleased to enclose the original Certificate of Registration of Patent for the above-identified patent case in Hong Kong.  The Hong Kong patent will remain in force as long as the corresponding U.K. patent is in force.
+
+Please confirm receipt of this patent document by signing below and returning a copy of this letter to us for our records.  If you have any questions regarding this patent, please do not hesitate to contact us.
+ 
+Sincerely,
+
+
+
+Team Member/Working Attorney
+
+Enclosure
+
+cc:	copyname
+  
+P10HK1 
+
+[After the closing, add the following:]
+
+Receipt of the above-identified Hong Kong Certificate of Registration of Patent is confirmed.
+
+
+_____________________				__________________________
+Date		Signature
+
+

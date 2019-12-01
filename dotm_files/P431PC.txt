@@ -1,0 +1,34 @@
+
+
+
+
+
+
+
+General/Today’s Date
+
+
+
+NameAddress
+	Re:	References/Client Reference #
+		Case Country Patent Application No. Diary Field/Basic Application No.
+		Filing Date:	Diary Field/Basic Application Date
+		Title:	Case TITLE
+		Inventor(s):	Name/DNC/Inventors
+		Our Ref.:	Elite Matter No.
+	
+Dear Name/DNC/Correspondence Address-Contact Greeting:
+
+	We are pleased to confirm that the above-identified PCT patent application has been filed and assigned the number above indicated.  This application claims priority from the counterpart U.S. application and therefore has an effective filing date of .  Please note that PCT applications are published eighteen (18) months after the priority date (i.e., the U.S. filing date).
+
+	Please do not hesitate to contact us if you have any questions.  In the meantime, we will report further on this application as the case progresses. 
+
+						Sincerely,
+
+
+
+						Team Member/Working Attorney
+
+cc:	copyname
+  p31pc
+

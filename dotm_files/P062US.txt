@@ -1,0 +1,32 @@
+
+
+
+Today’s Date
+	AttyName
+	AttyEmail
+	AttyPhone
+NameAddress
+Re:	Client Reference #
+	Country Patent Application No. Basic Application No.
+	Filing Date:	Application Date
+	Title:	Case TITLE
+	Inventor(s):	Inventors
+	Our Ref.:	Elite Matter No.
+	
+Dear Contact Greeting:
+
+We confirm that we have transmitted the above-identified patent application to the United States.  Enclosed by mail is a complete copy of the filing documents.  We will report further on this application when the official filing receipt is received, which may be a few months from now.
+
+In the meantime, we note the requirement in the United States that an inventor advise the Patent Office of any known prior art which is known to be material to the patentability of the claimed invention.  The obligation to disclose prior art is a continuing duty throughout the prosecution of the patent application.  Disclosure of prior art should be made within three months of receiving knowledge of the art, or at least prior to a first Office Action in the US application, in order to avoid a submission fee.  Please advise if there is any prior art known to the inventor which should be submitted to the United States Patent Office.
+
+Sincerely,
+
+
+
+Working Attorney
+
+Enclosure
+
+cc:	copyname
+  P62US
+
