@@ -24,9 +24,9 @@ def doc_to_text_catdoc(filename):
 def main():
 
     count = 0
-    dir_ = "/Users/user/Documents/KAQ3/backend-dotm-search-assessment/dotm_files"
+    dir_ = os.getcwd()
     if args.dir:
-        dir_ = "/Users/user/Documents/KAQ3/backend-dotm-search-assessment" + \
+        dir_ = os.getcwd() + \
             args.dir[1:]
     os.chdir(dir_)
     for files in os.listdir():
